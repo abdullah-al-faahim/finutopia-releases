@@ -46,7 +46,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 
 **Everyday money**
 - Cash, mobile wallets (bKash, Nagad, Rocket, Upay and more), bank accounts and cards; 70+ providers with logos
-- Add an expense in three taps with a big keypad, amounts shown in words
+- Quick actions on Home: expense, income or transfer in one tap; a big keypad shows amounts in words
 - Transfers with fees worked out for you: cash out, add money, bank to wallet
 - Search and filter every entry by account, category, income source or date
 
@@ -79,13 +79,13 @@ insurance premium coming up. It shows where you stand today and what is coming n
 **Your data, safely**
 - Encrypted on the phone; app lock with PIN or fingerprint; hides amounts in recent apps
 - Daily encrypted backup to Google Drive; restore everything on a new phone in a minute
-- Light and dark themes; in-app updates
+- A modern, animated design in light and dark; in-app updates with a red dot when one is ready
 
 ## Screenshots
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/01_home.png" width="250"><br><sub>Home: net worth, what to pay, safe to spend</sub></td>
+    <td align="center"><img src="screenshots/01_home.png" width="250"><br><sub>Home: net worth, quick actions, what to pay</sub></td>
     <td align="center"><img src="screenshots/02_wealth.png" width="250"><br><sub>Wealth: assets and loans together</sub></td>
     <td align="center"><img src="screenshots/03_savings.png" width="250"><br><sub>Savings from start to maturity</sub></td>
   </tr>
