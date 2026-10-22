@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><b>⬇ Download the latest APK</b></a>
-  &nbsp;·&nbsp; Android 8.0 or newer &nbsp;·&nbsp; Free
+  &nbsp;·&nbsp; Android 8.0 or newer, iPhone (iOS 15+, test build) &nbsp;·&nbsp; Free
 </p>
 
 <p align="center">
@@ -118,6 +118,12 @@ insurance premium coming up. It shows where you stand today and what is coming n
 2. Open it. If Android asks, allow your browser to install apps.
 3. Pick Bangla or English and follow the short setup, or tap **Restore a backup** to bring your
    data from another phone.
+
+**iPhone (test build):** download the `.ipa` from the same release and install it with
+[Sideloadly](https://sideloadly.io) or AltStore and your Apple ID, then trust your Apple ID under
+Settings → General → VPN & Device Management (and turn on Developer Mode on iOS 16+). With a free
+Apple ID, reinstall every 7 days; your data stays. Google Drive backup and in-app updates are
+Android-only for now.
 
 **Updating:** FinUtopia checks for new versions by itself. When one is out you'll see it on the Home
 screen, or go to **Settings → App updates**. It installs over the current version and your data stays.
