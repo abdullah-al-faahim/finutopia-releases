@@ -72,6 +72,11 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - Life, health, motor, property and travel policies
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
 
+**Monthly report**
+- Export any of the last 12 months as a designed PDF and an Excel workbook, or share both at once
+- Budget, spending, income, account balances, savings, loans, insurance, goals, next month's dues and every entry
+- The Excel file keeps Bangla and puts each area on its own sheet, ready to sum and sort
+
 **Edit anything**
 - Change a loan, policy or savings plan any time: what you already paid stays, the rest is re-planned
 - Move or change a single EMI, premium or instalment
@@ -102,7 +107,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
   <tr>
     <td align="center"><img src="screenshots/dark_01_home.png" width="250"><br><sub>Dark theme</sub></td>
     <td align="center"><img src="screenshots/dark_02_wealth.png" width="250"><br><sub>Dark theme: wealth</sub></td>
-    <td></td>
+    <td align="center"><img src="screenshots/10_report.png" width="250"><br><sub>Monthly report as PDF (and Excel)</sub></td>
   </tr>
 </table>
 
