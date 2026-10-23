@@ -70,6 +70,11 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - Prepay and see the loan end sooner; debt-free date at a glance
 - **bKash Loan** (City Bank): limits, 3–6 month tenure and the processing fee filled in
 
+**Money you lend**
+- Lend to friends or family without it counting as spending: it stays yours until it comes back
+- See who owes you what, what is late and who is due back next; get it back in parts; send a polite reminder
+- Write off what won't come back
+
 **Insurance**
 - Life, health, motor, property and travel policies
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
@@ -113,7 +118,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
   </tr>
   <tr>
     <td align="center"><img src="screenshots/11_sanchayapatra.png" width="250"><br><sub>Sanchayapatra profit to your bank, tax by the law</sub></td>
-    <td></td>
+    <td align="center"><img src="screenshots/12_lent.png" width="250"><br><sub>Money lent: who owes you, and what is late</sub></td>
     <td></td>
   </tr>
 </table>
