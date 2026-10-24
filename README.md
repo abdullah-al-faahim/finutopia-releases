@@ -62,7 +62,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - DPS instalments tracked one by one; plan future investments; encash or reinvest at maturity
 - **Sanchayapatra tax by the law:** 5%/10% by your total until June 2026, a flat 10% advance tax from July 2026, with every rule and its source in the app
 - **Profit straight to your bank:** monthly or quarterly profit is added to your bank account on its day, after tax
-- **bKash DPS** with BRAC Bank, Dhaka Bank, Eastern Bank, IDLC, MTB and City Bank, paid from and back into bKash
+- **bKash DPS** with BRAC Bank, Dhaka Bank, Eastern Bank, IDLC, MTB and City Bank, paid from and back into bKash, monthly or weekly (from Tk 250 a week)
 
 **Loans and EMIs**
 - Bank loans, card EMIs, money from family, already-running loans
