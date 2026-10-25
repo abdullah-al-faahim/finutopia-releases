@@ -63,6 +63,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - **Sanchayapatra tax by the law:** 5%/10% by your total until June 2026, a flat 10% advance tax from July 2026, with every rule and its source in the app
 - **Profit straight to your bank:** monthly or quarterly profit is added to your bank account on its day, after tax
 - **bKash DPS** with BRAC Bank, Dhaka Bank, Eastern Bank, IDLC, MTB and City Bank, paid from and back into bKash, monthly or weekly (from Tk 250 a week)
+- **bKash FDR** with Eastern Bank or IDLC: Tk 10,000 to 1 lakh for 6 or 12 months, profit every 3 or 6 months into bKash
 
 **Loans and EMIs**
 - Bank loans, card EMIs, money from family, already-running loans
@@ -79,10 +80,11 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - Life, health, motor, property and travel policies
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
 
-**Monthly report**
+**Reports for you and your tax return**
 - Export any of the last 12 months as a designed PDF and an Excel workbook, or share both at once
 - Budget, spending, income, account balances, savings, loans, insurance, goals, next month's dues and every entry
 - The Excel file keeps Bangla and puts each area on its own sheet, ready to sum and sort
+- **Tax year summary** (July to June): income, interest with tax cut at source, investments, premiums, assets and debts on 30 June, and living expenses, ready for your return
 
 **Edit anything**
 - Change a loan, policy or savings plan any time: what you already paid stays, the rest is re-planned
