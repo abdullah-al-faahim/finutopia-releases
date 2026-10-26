@@ -74,6 +74,8 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - Each bank's credit rating beside its name, coloured by Bangladesh Bank's grade from 1 (strongest) to 6
 - Tap it for what the grade means, who rated it and until when, and how much of your money there is protected
 - A warning when an FDR or DPS would take you above the Tk 2 lakh protected per person per bank, or the bank is weak, unrated or merged
+- "Your money's safety" on the Wealth tab: at each bank and finance company, how much you hold, how much is protected and what is above the limit
+- 2026 ratings for banks and for finance companies such as DBH, IPDC, National Housing and LankaBangla, each with its source
 - Ratings and banks update online within a day, without an app update
 
 **Loans and EMIs**
@@ -138,7 +140,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
   <tr>
     <td align="center"><img src="screenshots/15_fdr_warning.png" width="250"><br><sub>A warning above the Tk 2 lakh protected</sub></td>
     <td align="center"><img src="screenshots/17_insurers.png" width="250"><br><sub>All licensed insurers to pick from</sub></td>
-    <td></td>
+    <td align="center"><img src="screenshots/18_wealth_safety.png" width="250"><br><sub>How much of your money is protected</sub></td>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "note": "Bank ratings are Bangladesh Bank's list of ECAI ratings for 2025-26 (financial statements of 31 December 2024). 'grade' is Bangladesh Bank's 1-6 equivalent: 1 is AAA to AA-, 6 is CCC and below. A bank with two ratings takes the worse; state banks use the standalone rating. ICICI Bank is not on the list. Update when Bangladesh Bank or the agencies publish newer ratings.",
+  "version": 2,
+  "note": "Each entry names its source. Banks start from Bangladesh Bank's list of ECAI ratings for 2025-26 (financial statements of 31 December 2024); 2026 renewals and finance companies come from the agencies' lists or the institutions' notices. 'grade' is Bangladesh Bank's 1-6 equivalent (AAA to AA- is 1, A 2, BBB 3, BB 4, B 5, below 6). Without valid_until, a rating is valid for one year from rated_on. A bank with two ratings takes the worse; state banks use the standalone rating.",
   "ratings_source": {
     "name": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
     "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf",
@@ -27,131 +27,194 @@
       "rating": "A-",
       "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-06-17"
+      "valid_until": "2026-06-17",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "agrani": {
       "agency": "NCRL",
       "rating": "A",
       "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-09-02"
+      "valid_until": "2026-09-02",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "aibl": {
       "agency": "CRISL",
-      "rating": "AA-",
-      "grade": 1,
+      "rating": "A+",
+      "grade": 2,
       "short": "ST-3",
-      "valid_until": "2026-07-13"
+      "valid_until": "2027-07-28",
+      "rated_on": "2026-07-29",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "alfalah": {
       "agency": "ECRL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-04-27"
+      "valid_until": "2026-04-27",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "alliancefinance": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2027-08-12",
+      "rated_on": "2026-08-13",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "bankasia": {
       "agency": "CRISL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-07-01"
+      "valid_until": "2027-06-29",
+      "rated_on": "2026-06-30",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "basic": {
       "agency": "ECRL",
       "rating": "B+",
       "grade": 5,
       "short": "ST-5",
-      "valid_until": "2026-07-23"
+      "valid_until": "2026-07-23",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "bcbl": {
       "agency": "NCRL",
       "rating": "BB+",
       "grade": 4,
       "short": "ST-4",
-      "valid_until": "2026-09-01"
+      "valid_until": "2026-09-01",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "bdbl": {
       "agency": "CRAB",
       "rating": "A3",
       "grade": 2,
       "short": "ST-3",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "bengal": {
       "agency": "ECRL",
       "rating": "AA-",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-03"
+      "valid_until": "2026-06-03",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "bkb": {
-      "unrated": true
+      "unrated": true,
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "brac": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "cbc": {
       "agency": "CRISL",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-01"
+      "valid_until": "2027-05-31",
+      "rated_on": "2026-06-01",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "citi": {
       "agency": "S&P",
       "rating": "A+",
-      "grade": 2
+      "grade": 2,
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "citizens": {
       "agency": "Alpha",
       "rating": "A",
       "grade": 2,
       "short": "ST-3",
-      "valid_until": "2026-06-29"
+      "valid_until": "2026-06-29",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "city": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "community": {
       "agency": "CRISL",
       "rating": "AA-",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-05-18"
+      "valid_until": "2026-05-18",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "dbbl": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "dbh": {
+      "agency": "ECRL",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2027-06-30",
+      "rated_on": "2026-06-11",
+      "source": "DBH Finance price-sensitive notice, 11 June 2026",
+      "url": "https://dbhfinance.com/public/assets/investor/price-sensitive-info/1781515467_Credit_Rating_of_DBH_Finance_PLC_2026.pdf"
     },
     "dhaka": {
       "agency": "ECRL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-04-07"
+      "valid_until": "2026-04-07",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "ebl": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "rated_on": "2026-06-17",
+      "source": "The Daily Star, 18 June 2026",
+      "url": "https://www.thedailystar.net/business/organisation-news/news/eastern-bank-retains-highest-aaa-credit-rating-4201456"
     },
     "exim": {
       "unrated": true,
-      "merged_into": "sammilito"
+      "merged_into": "sammilito",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "fsibl": {
       "agency": "ECRL",
@@ -159,206 +222,334 @@
       "grade": 4,
       "short": "ST-4",
       "valid_until": "2026-05-14",
-      "merged_into": "sammilito"
+      "merged_into": "sammilito",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "gib": {
       "unrated": true,
-      "merged_into": "sammilito"
+      "merged_into": "sammilito",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "hajjfinance": {
+      "agency": "CRISL",
+      "rating": "BB-",
+      "grade": 4,
+      "short": "ST-5",
+      "valid_until": "2027-07-07",
+      "rated_on": "2026-07-08",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "hbl": {
       "agency": "CRISL",
       "rating": "AA-",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-01"
+      "valid_until": "2027-05-31",
+      "rated_on": "2026-06-01",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "hsbc": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "ibbl": {
-      "agency": "ECRL",
+      "agency": "CRISL",
       "rating": "A",
       "grade": 2,
-      "short": "ST-2",
-      "valid_until": "2026-07-05"
+      "short": "ST-3",
+      "valid_until": "2027-08-23",
+      "rated_on": "2026-08-24",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "icbib": {
-      "unrated": true
+      "unrated": true,
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "ific": {
       "agency": "ECRL",
       "rating": "BBB+",
       "grade": 3,
       "short": "ST-3",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "ipdc": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "rated_on": "2026-06-22",
+      "source": "The Business Standard, 22 June 2026",
+      "url": "https://www.tbsnews.net/economy/corporates/ipdc-finance-retains-aaa-credit-rating-eighth-consecutive-year-1469306"
     },
     "jamuna": {
       "agency": "CRAB",
       "rating": "AA1",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "janata": {
       "agency": "CRAB",
       "rating": "A3",
       "grade": 2,
       "short": "ST-3",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "lankabangla": {
+      "agency": "CRAB",
+      "rating": "AA3",
+      "grade": 1,
+      "short": "ST-2",
+      "rated_on": "2025-10-30",
+      "source": "CSE notice, 30 October 2025",
+      "url": "https://www.cse.com.bd/media/news/3785235"
     },
     "meghna": {
       "agency": "Alpha",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-22"
+      "valid_until": "2026-06-22",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "mercantile": {
       "agency": "CRISL",
-      "rating": "AA",
-      "grade": 1,
+      "rating": "A+",
+      "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-07-09"
+      "valid_until": "2027-07-08",
+      "rated_on": "2026-07-09",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
+    },
+    "meridian": {
+      "agency": "CRISL",
+      "rating": "BB+",
+      "grade": 4,
+      "short": "ST-4",
+      "valid_until": "2027-09-01",
+      "rated_on": "2026-09-02",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "midland": {
       "agency": "ECRL",
       "rating": "A+",
       "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "modhumoti": {
       "agency": "CRAB",
       "rating": "AA2",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "mtb": {
       "agency": "CRISL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-05-14"
+      "valid_until": "2026-05-14",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "nbl": {
       "agency": "ECRL",
       "rating": "BBB",
       "grade": 3,
       "short": "ST-3",
-      "valid_until": "2026-07-13"
+      "valid_until": "2026-07-13",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "nbp": {
       "agency": "CRAB",
       "rating": "BBB1",
       "grade": 3,
       "short": "ST-3",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "ncc": {
       "agency": "CRISL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-23"
+      "valid_until": "2027-06-22",
+      "rated_on": "2026-06-23",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
+    },
+    "nhfil": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2027-08-30",
+      "rated_on": "2026-08-31",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "nrb": {
       "agency": "CRISL",
       "rating": "A+",
       "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-07-01"
+      "valid_until": "2027-06-28",
+      "rated_on": "2026-06-29",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "nrbc": {
       "agency": "ECRL",
       "rating": "A+",
       "grade": 2,
       "short": "ST-3",
-      "valid_until": "2026-06-21"
+      "valid_until": "2026-06-21",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "one": {
       "agency": "ECRL",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-03-09"
+      "valid_until": "2026-03-09",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "padma": {
       "agency": "ECRL",
       "rating": "B+",
       "grade": 5,
       "short": "ST-5",
-      "valid_until": "2025-12-29"
+      "valid_until": "2025-12-29",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
+    },
+    "peoplesleasing": {
+      "agency": "CRISL",
+      "rating": "D",
+      "grade": 6,
+      "short": "ST-6",
+      "valid_until": "2027-09-15",
+      "rated_on": "2026-09-16",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "pkb": {
-      "unrated": true
+      "unrated": true,
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "premier": {
       "agency": "ARGUS",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-09-22"
+      "valid_until": "2026-09-22",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "prime": {
       "agency": "CRAB",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "rated_on": "2026-06-18",
+      "source": "The Daily Star, 19 June 2026",
+      "url": "https://www.thedailystar.net/business/organisation-news/news/prime-bank-retains-highest-aaa-and-st-1-ratings-4202356"
     },
     "pubali": {
       "agency": "CRISL",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-05-31"
+      "valid_until": "2027-05-31",
+      "rated_on": "2026-06-01",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "rakub": {
       "agency": "Alpha",
       "rating": "BB",
       "grade": 4,
       "short": "ST-3",
-      "valid_until": "2026-11-10"
+      "valid_until": "2026-11-10",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "rupali": {
       "agency": "NCRL",
       "rating": "BBB+",
       "grade": 3,
       "short": "ST-3",
-      "valid_until": "2026-08-19"
+      "valid_until": "2026-08-19",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "sbac": {
       "agency": "CRISL",
       "rating": "A",
       "grade": 2,
-      "short": "ST-2",
-      "valid_until": "2026-06-24"
+      "short": "ST-3",
+      "valid_until": "2027-06-23",
+      "rated_on": "2026-06-24",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "sbi": {
       "agency": "Alpha",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-05-31"
+      "valid_until": "2026-05-31",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "scb": {
       "agency": "CRISL",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-05-14"
+      "valid_until": "2026-05-14",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "shimanto": {
       "agency": "CRISL",
-      "rating": "A",
+      "rating": "A+",
       "grade": 2,
       "short": "ST-2",
-      "valid_until": "2026-12-28"
+      "valid_until": "2027-08-11",
+      "rated_on": "2026-08-12",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "sibl": {
       "agency": "ECRL",
@@ -366,67 +557,88 @@
       "grade": 3,
       "short": "ST-3",
       "valid_until": "2026-05-15",
-      "merged_into": "sammilito"
+      "merged_into": "sammilito",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "sjibl": {
       "agency": "ECRL",
       "rating": "AA+",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-03-24"
+      "valid_until": "2026-03-24",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "sonali": {
       "agency": "CRISL",
       "rating": "AA-",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-29"
+      "valid_until": "2027-06-29",
+      "rated_on": "2026-06-30",
+      "source": "CRISL rating list",
+      "url": "https://crislbd.com/page/rating-list"
     },
     "southeast": {
       "agency": "CRISL",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-08-08"
+      "valid_until": "2026-08-08",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "standard": {
       "agency": "NCRL",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-23"
+      "valid_until": "2026-06-23",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "trust": {
       "agency": "CRAB",
       "rating": "AA1",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "ucb": {
       "agency": "ECRL",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-05-06"
+      "valid_until": "2026-05-06",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "union": {
       "unrated": true,
-      "merged_into": "sammilito"
+      "merged_into": "sammilito",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "uttara": {
       "agency": "ECRL",
       "rating": "AA",
       "grade": 1,
       "short": "ST-2",
-      "valid_until": "2026-06-30"
+      "valid_until": "2026-06-30",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     },
     "woori": {
       "agency": "Alpha",
       "rating": "AAA",
       "grade": 1,
       "short": "ST-1",
-      "valid_until": "2026-06-29"
+      "valid_until": "2026-06-29",
+      "source": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+      "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf"
     }
   }
 }
