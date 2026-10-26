@@ -1,0 +1,347 @@
+{
+  "version": 5,
+  "note": "All amounts in paisa, all rates in basis points (12.37% = 1237). Figures are estimates from general knowledge; confirm with the Department of National Savings, a bank and the NBR before each release.",
+  "update_url": "https://raw.githubusercontent.com/abdullah-al-faahim/finutopia-releases/main/catalog",
+  "schemes": {
+    "family": {
+      "tenure_months": 60,
+      "payout": "monthly"
+    },
+    "pensioner": {
+      "tenure_months": 60,
+      "payout": "quarterly"
+    },
+    "fiveYear": {
+      "tenure_months": 60,
+      "payout": "atMaturity"
+    },
+    "threeMonth": {
+      "tenure_months": 36,
+      "payout": "quarterly"
+    }
+  },
+  "rates": [
+    {
+      "scheme": "fiveYear",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1240,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "fiveYear",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1237,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "threeMonth",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 36,
+      "rate_bp": 1230,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "threeMonth",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 36,
+      "rate_bp": 1225,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "pensioner",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1255,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "pensioner",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1237,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "family",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1250,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "family",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1237,
+      "effective_from": "2025-01-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "fiveYear",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1183,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "fiveYear",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1180,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "threeMonth",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 36,
+      "rate_bp": 1182,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "threeMonth",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 36,
+      "rate_bp": 1177,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "pensioner",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1198,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "pensioner",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1180,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "family",
+      "amount_band_min": 0,
+      "amount_band_max": 75000000,
+      "tenure": 60,
+      "rate_bp": 1193,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    },
+    {
+      "scheme": "family",
+      "amount_band_min": 75000001,
+      "amount_band_max": null,
+      "tenure": 60,
+      "rate_bp": 1180,
+      "effective_from": "2025-07-01",
+      "source_url": "https://nationalsavings.gov.bd",
+      "version": 1
+    }
+  ],
+  "sanchayapatra_tax": {
+    "note": "Source tax on Sanchayapatra profit by the date each payout is due. \"bands\" are chosen by the holder's total Sanchayapatra investment (all schemes, paisa); \"default\" applies to schemes without their own bands. Re-check the NBR and the National Savings Directorate before releases.",
+    "periods": [
+      {
+        "from": "2019-07-01",
+        "adjustable": false,
+        "bands": {
+          "default": [
+            {
+              "max": 50000000,
+              "value": 500
+            },
+            {
+              "max": null,
+              "value": 1000
+            }
+          ],
+          "pensioner": [
+            {
+              "max": 50000000,
+              "value": 0
+            },
+            {
+              "max": null,
+              "value": 1000
+            }
+          ]
+        },
+        "basis": "Final tax. 5% when a person's total Sanchayapatra investment is up to Tk 5 lakh (2019 notification), 10% above (Income Tax Act 2023, s. 105); Pensioner Sanchayapatra up to Tk 5 lakh is exempt. Confirmed by the NBR letter to the National Savings Directorate of 3 Feb 2026.",
+        "source_url": "https://bonikbarta.com/economy/9DYlnlZcrpQhy4Zz"
+      },
+      {
+        "from": "2026-07-01",
+        "adjustable": true,
+        "bands": {
+          "default": [
+            {
+              "max": null,
+              "value": 1000
+            }
+          ]
+        },
+        "basis": "Finance Act 2026 (passed 29 Jun 2026, amends s. 163 of the Income Tax Act 2023): a flat 10% advance tax on the profit of every Sanchayapatra, Pensioner included. It is no longer final: it counts against the year's tax in the return, and any excess is refunded.",
+        "source_url": "https://www.prothomalo.com/business/economics/ifkl7ecfeo"
+      }
+    ]
+  },
+  "bank_interest": {
+    "source_tax_tin_bp": 1000,
+    "source_tax_no_tin_bp": 1500,
+    "excise_duty": [
+      {
+        "max": 10000000,
+        "value": 0
+      },
+      {
+        "max": 50000000,
+        "value": 15000
+      },
+      {
+        "max": 100000000,
+        "value": 50000
+      },
+      {
+        "max": 1000000000,
+        "value": 300000
+      },
+      {
+        "max": 5000000000,
+        "value": 1500000
+      },
+      {
+        "max": null,
+        "value": 4000000
+      }
+    ]
+  },
+  "bkash": {
+    "note": "Checked 2026-10-22. The partner bank sets each DPS rate and City Bank sets each customer's loan rate (shown in the bKash app); rate_bp values are starting points only.",
+    "dps": {
+      "partners": [
+        "brac",
+        "dhaka",
+        "ebl",
+        "idlc",
+        "mtb",
+        "city"
+      ],
+      "instalments": [
+        50000,
+        100000,
+        200000,
+        250000,
+        300000,
+        500000,
+        1000000,
+        2000000
+      ],
+      "tenures": [
+        6,
+        12,
+        24,
+        36,
+        48
+      ],
+      "rate_bp": 900,
+      "early_encash_after_days": 90,
+      "source_url": "https://www.bkash.com/en/products-services/savings/monthly-dps",
+      "weekly": {
+        "partners": [
+          "brac",
+          "dhaka",
+          "idlc"
+        ],
+        "instalments": [
+          25000,
+          50000,
+          100000,
+          200000,
+          500000
+        ],
+        "tenures": [
+          6,
+          12
+        ],
+        "rate_bp": 900,
+        "source_url": "https://www.bkash.com/en/products-services/savings/weekly-dps"
+      }
+    },
+    "loan": {
+      "lender": "city",
+      "min": 50000,
+      "max": 5000000,
+      "tenures": [
+        3,
+        6
+      ],
+      "rate_bp": 1800,
+      "processing_fee_bp": 50,
+      "processing_fee_vat_bp": 1500,
+      "late_penalty_bp": 50,
+      "source_url": "https://www.bkash.com/en/products-services/loan/loan-bkash"
+    },
+    "fdr": {
+      "partners": [
+        "ebl",
+        "idlc"
+      ],
+      "min": 1000000,
+      "max": 10000000,
+      "tenures": [
+        6,
+        12
+      ],
+      "payouts": [
+        "quarterly",
+        "halfYearly"
+      ],
+      "rate_bp": 900,
+      "source_url": "https://www.bkash.com/en/products-services/savings/fdr"
+    }
+  }
+}

@@ -32,6 +32,9 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - **Made for Bangladesh.** bKash, Nagad, Rocket, every major bank and the finance companies (NBFIs), with their logos. Amounts in
   lakh and crore (৳3,97,296). Sanchayapatra rate tables and tax bands, bank source tax and excise
   duty, and bKash DPS and bKash Loan built in.
+- **Know where your money is safe.** Every bank shows its credit rating from Bangladesh Bank's
+  list, and the app warns you before a deposit goes above the Tk 2 lakh that is protected if a bank
+  closes.
 - **Your whole picture, not just spending.** Spending, budgets, savings, loans and insurance live
   in one place, and your net worth counts what you owe, not only what you have.
 - **Tells you what's next.** EMIs, premiums and DPS instalments due this week sit on the Home
@@ -67,6 +70,12 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - **bKash FDR** with Eastern Bank or IDLC: Tk 10,000 to 1 lakh for 6 or 12 months, profit every 3 or 6 months into bKash
 - **Finance companies:** the 30 NBFIs that take deposits (IDLC, IPDC, LankaBangla, DBH and more) for FDRs, DPSs and loans, with a caution on the nine Bangladesh Bank is winding up
 
+**Deposit safety**
+- Each bank's credit rating beside its name, coloured by Bangladesh Bank's grade from 1 (strongest) to 6
+- Tap it for what the grade means, who rated it and until when, and how much of your money there is protected
+- A warning when an FDR or DPS would take you above the Tk 2 lakh protected per person per bank, or the bank is weak, unrated or merged
+- Ratings and banks update online within a day, without an app update
+
 **Loans and EMIs**
 - Bank loans, card EMIs, money from family, already-running loans
 - Reducing-balance or flat-rate EMI plan with principal and interest for every instalment
@@ -80,6 +89,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 
 **Insurance**
 - Life, health, motor, property and travel policies
+- Pick the insurer from all 82 IDRA-licensed companies (36 life, 46 general), in Bangla or English
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
 
 **Reports for you and your tax return**
@@ -123,6 +133,11 @@ insurance premium coming up. It shows where you stand today and what is coming n
   <tr>
     <td align="center"><img src="screenshots/11_sanchayapatra.png" width="250"><br><sub>Sanchayapatra profit to your bank, tax by the law</sub></td>
     <td align="center"><img src="screenshots/12_lent.png" width="250"><br><sub>Money lent: who owes you, and what is late</sub></td>
+    <td align="center"><img src="screenshots/14_bank_ratings.png" width="250"><br><sub>Every bank's credit rating</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/15_fdr_warning.png" width="250"><br><sub>A warning above the Tk 2 lakh protected</sub></td>
+    <td align="center"><img src="screenshots/17_insurers.png" width="250"><br><sub>All licensed insurers to pick from</sub></td>
     <td></td>
   </tr>
 </table>

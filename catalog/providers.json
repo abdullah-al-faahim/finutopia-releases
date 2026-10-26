@@ -1,0 +1,1451 @@
+{
+  "version": 6,
+  "note": "Names and logos are trademarks of their owners. Logos are shown only for providers listed with a 'logo'; confirm permission before release (PRD §13). Fee profiles are approximate defaults the user can edit. Verify before each release. Finance companies (kind \"nbfi\") are the 30 deposit-taking NBFCs in Bangladesh Bank's NBFC statistics (April-June 2026); group \"resolution\" marks those in its 2026 wind-up plan. Sammilito Islami Bank (2026) is the merger of EXIM, First Security, Global Islami, Social Islami and Union Bank; safety.json marks the five. Insurers are the 36 life and 46 general (non-life) insurers IDRA licenses; a policy stores the English name.",
+  "providers": [
+    {
+      "id": "bkash",
+      "kind": "mfs",
+      "name_en": "bKash",
+      "name_bn": "বিকাশ",
+      "fee_profile": {
+        "cash_out_bp": 185,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/bkash.png",
+      "logo_focus_x": 0.92
+    },
+    {
+      "id": "nagad",
+      "kind": "mfs",
+      "name_en": "Nagad",
+      "name_bn": "নগদ",
+      "fee_profile": {
+        "cash_out_bp": 149,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/nagad.png"
+    },
+    {
+      "id": "rocket",
+      "kind": "mfs",
+      "name_en": "Rocket",
+      "name_bn": "রকেট",
+      "fee_profile": {
+        "cash_out_bp": 180,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/rocket.png"
+    },
+    {
+      "id": "upay",
+      "kind": "mfs",
+      "name_en": "Upay",
+      "name_bn": "উপায়",
+      "fee_profile": {
+        "cash_out_bp": 140,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/upay.png"
+    },
+    {
+      "id": "tap",
+      "kind": "mfs",
+      "name_en": "tap",
+      "name_bn": "ট্যাপ",
+      "fee_profile": {
+        "cash_out_bp": 150,
+        "send_money": 500,
+        "add_money_bp": 0
+      }
+    },
+    {
+      "id": "okwallet",
+      "kind": "mfs",
+      "name_en": "OK Wallet",
+      "name_bn": "ওকে ওয়ালেট",
+      "fee_profile": {
+        "cash_out_bp": 150,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/okwallet.png"
+    },
+    {
+      "id": "mcash",
+      "kind": "mfs",
+      "name_en": "mCash",
+      "name_bn": "এমক্যাশ",
+      "fee_profile": {
+        "cash_out_bp": 150,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/mcash.png"
+    },
+    {
+      "id": "surecash",
+      "kind": "mfs",
+      "name_en": "SureCash",
+      "name_bn": "শিওরক্যাশ",
+      "fee_profile": {
+        "cash_out_bp": 150,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/surecash.png"
+    },
+    {
+      "id": "mycash",
+      "kind": "mfs",
+      "name_en": "MyCash",
+      "name_bn": "মাইক্যাশ",
+      "fee_profile": {
+        "cash_out_bp": 150,
+        "send_money": 500,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/mycash.png"
+    },
+    {
+      "id": "cellfin",
+      "kind": "mfs",
+      "name_en": "Cellfin",
+      "name_bn": "সেলফিন",
+      "fee_profile": {
+        "cash_out_bp": 100,
+        "send_money": 0,
+        "add_money_bp": 0
+      },
+      "logo": "assets/logos/cellfin.png"
+    },
+    {
+      "id": "sonali",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "Sonali Bank",
+      "name_bn": "সোনালী ব্যাংক",
+      "logo": "assets/logos/sonali.svg"
+    },
+    {
+      "id": "janata",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "Janata Bank",
+      "name_bn": "জনতা ব্যাংক",
+      "logo": "assets/logos/janata.png"
+    },
+    {
+      "id": "agrani",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "Agrani Bank",
+      "name_bn": "অগ্রণী ব্যাংক",
+      "logo": "assets/logos/agrani.png"
+    },
+    {
+      "id": "rupali",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "Rupali Bank",
+      "name_bn": "রূপালী ব্যাংক",
+      "logo": "assets/logos/rupali.png"
+    },
+    {
+      "id": "basic",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "BASIC Bank",
+      "name_bn": "বেসিক ব্যাংক",
+      "logo": "assets/logos/basic.png"
+    },
+    {
+      "id": "bdbl",
+      "kind": "bank",
+      "group": "state",
+      "name_en": "Bangladesh Development Bank",
+      "name_bn": "বাংলাদেশ ডেভেলপমেন্ট ব্যাংক",
+      "logo": "assets/logos/bdbl.png"
+    },
+    {
+      "id": "bkb",
+      "kind": "bank",
+      "group": "specialized",
+      "name_en": "Bangladesh Krishi Bank",
+      "name_bn": "বাংলাদেশ কৃষি ব্যাংক",
+      "logo": "assets/logos/bkb.png"
+    },
+    {
+      "id": "rakub",
+      "kind": "bank",
+      "group": "specialized",
+      "name_en": "Rajshahi Krishi Unnayan Bank",
+      "name_bn": "রাজশাহী কৃষি উন্নয়ন ব্যাংক",
+      "logo": "assets/logos/rakub.png"
+    },
+    {
+      "id": "pkb",
+      "kind": "bank",
+      "group": "specialized",
+      "name_en": "Probashi Kallyan Bank",
+      "name_bn": "প্রবাসী কল্যাণ ব্যাংক",
+      "logo": "assets/logos/pkb.png"
+    },
+    {
+      "id": "ab",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "AB Bank",
+      "name_bn": "এবি ব্যাংক",
+      "logo": "assets/logos/ab.png"
+    },
+    {
+      "id": "bankasia",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Bank Asia",
+      "name_bn": "ব্যাংক এশিয়া",
+      "logo": "assets/logos/bankasia.png"
+    },
+    {
+      "id": "bengal",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Bengal Commercial Bank",
+      "name_bn": "বেঙ্গল কমার্শিয়াল ব্যাংক",
+      "logo": "assets/logos/bengal.png"
+    },
+    {
+      "id": "bcbl",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Bangladesh Commerce Bank",
+      "name_bn": "বাংলাদেশ কমার্স ব্যাংক"
+    },
+    {
+      "id": "brac",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "BRAC Bank",
+      "name_bn": "ব্র্যাক ব্যাংক",
+      "logo": "assets/logos/brac.png"
+    },
+    {
+      "id": "citizens",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Citizens Bank",
+      "name_bn": "সিটিজেনস ব্যাংক",
+      "logo": "assets/logos/citizens.png"
+    },
+    {
+      "id": "city",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "The City Bank",
+      "name_bn": "দ্য সিটি ব্যাংক",
+      "logo": "assets/logos/city.svg"
+    },
+    {
+      "id": "community",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Community Bank Bangladesh",
+      "name_bn": "কমিউনিটি ব্যাংক বাংলাদেশ",
+      "logo": "assets/logos/community.png"
+    },
+    {
+      "id": "dhaka",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Dhaka Bank",
+      "name_bn": "ঢাকা ব্যাংক",
+      "logo": "assets/logos/dhaka.png"
+    },
+    {
+      "id": "dbbl",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Dutch-Bangla Bank",
+      "name_bn": "ডাচ্-বাংলা ব্যাংক",
+      "logo": "assets/logos/dbbl.svg"
+    },
+    {
+      "id": "ebl",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Eastern Bank",
+      "name_bn": "ইস্টার্ন ব্যাংক",
+      "logo": "assets/logos/ebl.png"
+    },
+    {
+      "id": "ific",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "IFIC Bank",
+      "name_bn": "আইএফআইসি ব্যাংক",
+      "logo": "assets/logos/ific.svg"
+    },
+    {
+      "id": "jamuna",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Jamuna Bank",
+      "name_bn": "যমুনা ব্যাংক",
+      "logo": "assets/logos/jamuna.png"
+    },
+    {
+      "id": "meghna",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Meghna Bank",
+      "name_bn": "মেঘনা ব্যাংক",
+      "logo": "assets/logos/meghna.png"
+    },
+    {
+      "id": "mercantile",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Mercantile Bank",
+      "name_bn": "মার্কেন্টাইল ব্যাংক",
+      "logo": "assets/logos/mercantile.png"
+    },
+    {
+      "id": "midland",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Midland Bank",
+      "name_bn": "মিডল্যান্ড ব্যাংক",
+      "logo": "assets/logos/midland.png"
+    },
+    {
+      "id": "modhumoti",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Modhumoti Bank",
+      "name_bn": "মধুমতি ব্যাংক",
+      "logo": "assets/logos/modhumoti.png"
+    },
+    {
+      "id": "mtb",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Mutual Trust Bank",
+      "name_bn": "মিউচুয়াল ট্রাস্ট ব্যাংক",
+      "logo": "assets/logos/mtb.png"
+    },
+    {
+      "id": "nbl",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "National Bank",
+      "name_bn": "ন্যাশনাল ব্যাংক",
+      "logo": "assets/logos/nbl.png"
+    },
+    {
+      "id": "ncc",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "NCC Bank",
+      "name_bn": "এনসিসি ব্যাংক",
+      "logo": "assets/logos/ncc.png"
+    },
+    {
+      "id": "nrb",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "NRB Bank",
+      "name_bn": "এনআরবি ব্যাংক",
+      "logo": "assets/logos/nrb.png"
+    },
+    {
+      "id": "nrbc",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "NRBC Bank",
+      "name_bn": "এনআরবিসি ব্যাংক",
+      "logo": "assets/logos/nrbc.png"
+    },
+    {
+      "id": "one",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "ONE Bank",
+      "name_bn": "ওয়ান ব্যাংক",
+      "logo": "assets/logos/one.png"
+    },
+    {
+      "id": "padma",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Padma Bank",
+      "name_bn": "পদ্মা ব্যাংক",
+      "logo": "assets/logos/padma.png"
+    },
+    {
+      "id": "premier",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "The Premier Bank",
+      "name_bn": "দ্য প্রিমিয়ার ব্যাংক",
+      "logo": "assets/logos/premier.png"
+    },
+    {
+      "id": "prime",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Prime Bank",
+      "name_bn": "প্রাইম ব্যাংক",
+      "logo": "assets/logos/prime.png"
+    },
+    {
+      "id": "pubali",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Pubali Bank",
+      "name_bn": "পূবালী ব্যাংক",
+      "logo": "assets/logos/pubali.png"
+    },
+    {
+      "id": "sbac",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "SBAC Bank",
+      "name_bn": "এসবিএসি ব্যাংক",
+      "logo": "assets/logos/sbac.png"
+    },
+    {
+      "id": "shimanto",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Shimanto Bank",
+      "name_bn": "সীমান্ত ব্যাংক",
+      "logo": "assets/logos/shimanto.png"
+    },
+    {
+      "id": "southeast",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Southeast Bank",
+      "name_bn": "সাউথইস্ট ব্যাংক",
+      "logo": "assets/logos/southeast.png"
+    },
+    {
+      "id": "trust",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Trust Bank",
+      "name_bn": "ট্রাস্ট ব্যাংক",
+      "logo": "assets/logos/trust.png"
+    },
+    {
+      "id": "ucb",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "United Commercial Bank",
+      "name_bn": "ইউনাইটেড কমার্শিয়াল ব্যাংক",
+      "logo": "assets/logos/ucb.png"
+    },
+    {
+      "id": "uttara",
+      "kind": "bank",
+      "group": "private",
+      "name_en": "Uttara Bank",
+      "name_bn": "উত্তরা ব্যাংক",
+      "logo": "assets/logos/uttara.png"
+    },
+    {
+      "id": "ibbl",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Islami Bank Bangladesh",
+      "name_bn": "ইসলামী ব্যাংক বাংলাদেশ",
+      "logo": "assets/logos/ibbl.png"
+    },
+    {
+      "id": "aibl",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Al-Arafah Islami Bank",
+      "name_bn": "আল-আরাফাহ্ ইসলামী ব্যাংক",
+      "logo": "assets/logos/aibl.png"
+    },
+    {
+      "id": "exim",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "EXIM Bank",
+      "name_bn": "এক্সিম ব্যাংক",
+      "logo": "assets/logos/exim.png"
+    },
+    {
+      "id": "fsibl",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "First Security Islami Bank",
+      "name_bn": "ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক",
+      "logo": "assets/logos/fsibl.svg"
+    },
+    {
+      "id": "gib",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Global Islami Bank",
+      "name_bn": "গ্লোবাল ইসলামী ব্যাংক",
+      "logo": "assets/logos/gib.png"
+    },
+    {
+      "id": "icbib",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "ICB Islamic Bank",
+      "name_bn": "আইসিবি ইসলামিক ব্যাংক",
+      "logo": "assets/logos/icbib.png"
+    },
+    {
+      "id": "sjibl",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Shahjalal Islami Bank",
+      "name_bn": "শাহজালাল ইসলামী ব্যাংক",
+      "logo": "assets/logos/sjibl.png"
+    },
+    {
+      "id": "sibl",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Social Islami Bank",
+      "name_bn": "সোশ্যাল ইসলামী ব্যাংক",
+      "logo": "assets/logos/sibl.png"
+    },
+    {
+      "id": "standard",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Standard Bank",
+      "name_bn": "স্ট্যান্ডার্ড ব্যাংক",
+      "logo": "assets/logos/standard.png"
+    },
+    {
+      "id": "union",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Union Bank",
+      "name_bn": "ইউনিয়ন ব্যাংক",
+      "logo": "assets/logos/union.png"
+    },
+    {
+      "id": "sammilito",
+      "kind": "bank",
+      "group": "islamic",
+      "name_en": "Sammilito Islami Bank",
+      "name_bn": "সম্মিলিত ইসলামী ব্যাংক"
+    },
+    {
+      "id": "scb",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Standard Chartered",
+      "name_bn": "স্ট্যান্ডার্ড চার্টার্ড",
+      "logo": "assets/logos/scb.png"
+    },
+    {
+      "id": "hsbc",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "HSBC",
+      "name_bn": "এইচএসবিসি",
+      "logo": "assets/logos/hsbc.png"
+    },
+    {
+      "id": "citi",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Citibank N.A.",
+      "name_bn": "সিটিব্যাংক এন.এ.",
+      "logo": "assets/logos/citi.png"
+    },
+    {
+      "id": "cbc",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Commercial Bank of Ceylon",
+      "name_bn": "কমার্শিয়াল ব্যাংক অব সিলন",
+      "logo": "assets/logos/cbc.png"
+    },
+    {
+      "id": "hbl",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Habib Bank",
+      "name_bn": "হাবিব ব্যাংক",
+      "logo": "assets/logos/hbl.png"
+    },
+    {
+      "id": "nbp",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "National Bank of Pakistan",
+      "name_bn": "ন্যাশনাল ব্যাংক অব পাকিস্তান",
+      "logo": "assets/logos/nbp.png"
+    },
+    {
+      "id": "sbi",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "State Bank of India",
+      "name_bn": "স্টেট ব্যাংক অব ইন্ডিয়া",
+      "logo": "assets/logos/sbi.png"
+    },
+    {
+      "id": "woori",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Woori Bank",
+      "name_bn": "উরি ব্যাংক",
+      "logo": "assets/logos/woori.png"
+    },
+    {
+      "id": "alfalah",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "Bank Alfalah",
+      "name_bn": "ব্যাংক আলফালাহ",
+      "logo": "assets/logos/alfalah.png"
+    },
+    {
+      "id": "icici",
+      "kind": "bank",
+      "group": "foreign",
+      "name_en": "ICICI Bank",
+      "name_bn": "আইসিআইসিআই ব্যাংক",
+      "logo": "assets/logos/icici.png"
+    },
+    {
+      "id": "dns",
+      "kind": "post",
+      "name_en": "National Savings (Sanchayapatra)",
+      "name_bn": "জাতীয় সঞ্চয় (সঞ্চয়পত্র)"
+    },
+    {
+      "id": "postoffice",
+      "kind": "post",
+      "name_en": "Post Office Savings Bank",
+      "name_bn": "ডাকঘর সঞ্চয় ব্যাংক"
+    },
+    {
+      "id": "idlc",
+      "kind": "nbfi",
+      "name_en": "IDLC Finance",
+      "name_bn": "আইডিএলসি ফাইন্যান্স",
+      "group": "private"
+    },
+    {
+      "id": "cooperative",
+      "kind": "other",
+      "name_en": "Co-operative society",
+      "name_bn": "সমবায় সমিতি"
+    },
+    {
+      "id": "ngo",
+      "kind": "other",
+      "name_en": "NGO / microfinance savings",
+      "name_bn": "এনজিও / ক্ষুদ্রঋণ সঞ্চয়"
+    },
+    {
+      "id": "samity",
+      "kind": "other",
+      "name_en": "Informal committee (samity)",
+      "name_bn": "সমিতি"
+    },
+    {
+      "id": "rapidpass",
+      "kind": "other",
+      "name_en": "Rapid Pass (metro and bus card)",
+      "name_bn": "র‍্যাপিড পাস (মেট্রো ও বাস কার্ড)",
+      "logo": "assets/logos/rapidpass.png"
+    },
+    {
+      "id": "alliancefinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Alliance Finance",
+      "name_bn": "অ্যালায়েন্স ফাইন্যান্স"
+    },
+    {
+      "id": "aviva",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "Aviva Finance",
+      "name_bn": "অ্যাভিভা ফাইন্যান্স"
+    },
+    {
+      "id": "bdfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Bangladesh Finance",
+      "name_bn": "বাংলাদেশ ফাইন্যান্স"
+    },
+    {
+      "id": "bifc",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "Bangladesh Industrial Finance Company (BIFC)",
+      "name_bn": "বাংলাদেশ ইন্ডাস্ট্রিয়াল ফাইন্যান্স কোম্পানি (বিআইএফসি)"
+    },
+    {
+      "id": "bayleasing",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Bay Leasing & Investment",
+      "name_bn": "বে লিজিং অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "cvcfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "CVC Finance",
+      "name_bn": "সিভিসি ফাইন্যান্স"
+    },
+    {
+      "id": "dbh",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "DBH Finance",
+      "name_bn": "ডিবিএইচ ফাইন্যান্স"
+    },
+    {
+      "id": "fareast",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "Fareast Finance & Investment",
+      "name_bn": "ফারইস্ট ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "fasfinance",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "FAS Finance & Investment",
+      "name_bn": "এফএএস ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "firstfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "First Finance",
+      "name_bn": "ফার্স্ট ফাইন্যান্স"
+    },
+    {
+      "id": "gspfinance",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "GSP Finance Company (Bangladesh)",
+      "name_bn": "জিএসপি ফাইন্যান্স কোম্পানি (বাংলাদেশ)"
+    },
+    {
+      "id": "hajjfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Hajj Finance Company",
+      "name_bn": "হজ্ব ফাইন্যান্স কোম্পানি"
+    },
+    {
+      "id": "iidfc",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "IIDFC",
+      "name_bn": "আইআইডিএফসি"
+    },
+    {
+      "id": "ilfsl",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "International Leasing and Financial Services",
+      "name_bn": "ইন্টারন্যাশনাল লিজিং অ্যান্ড ফাইন্যান্সিয়াল সার্ভিসেস"
+    },
+    {
+      "id": "ipdc",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "IPDC Finance",
+      "name_bn": "আইপিডিসি ফাইন্যান্স"
+    },
+    {
+      "id": "islamicfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Islamic Finance and Investment",
+      "name_bn": "ইসলামিক ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "lankabangla",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "LankaBangla Finance",
+      "name_bn": "লংকাবাংলা ফাইন্যান্স"
+    },
+    {
+      "id": "meridian",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Meridian Finance & Investment",
+      "name_bn": "মেরিডিয়ান ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "midas",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "MIDAS Financing",
+      "name_bn": "মাইডাস ফাইন্যান্সিং"
+    },
+    {
+      "id": "nationalfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "National Finance",
+      "name_bn": "ন্যাশনাল ফাইন্যান্স"
+    },
+    {
+      "id": "nhfil",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "National Housing Finance",
+      "name_bn": "ন্যাশনাল হাউজিং ফাইন্যান্স"
+    },
+    {
+      "id": "peoplesleasing",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "People's Leasing and Financial Services",
+      "name_bn": "পিপলস লিজিং অ্যান্ড ফাইন্যান্সিয়াল সার্ভিসেস"
+    },
+    {
+      "id": "phoenixfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Phoenix Finance and Investments",
+      "name_bn": "ফিনিক্স ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্টস"
+    },
+    {
+      "id": "premierleasing",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "Premier Leasing & Finance",
+      "name_bn": "প্রিমিয়ার লিজিং অ্যান্ড ফাইন্যান্স"
+    },
+    {
+      "id": "primefinance",
+      "kind": "nbfi",
+      "group": "resolution",
+      "name_en": "Prime Finance & Investment",
+      "name_bn": "প্রাইম ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্ট"
+    },
+    {
+      "id": "sfil",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "SFIL Finance",
+      "name_bn": "এসএফআইএল ফাইন্যান্স"
+    },
+    {
+      "id": "unioncapital",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Union Capital",
+      "name_bn": "ইউনিয়ন ক্যাপিটাল"
+    },
+    {
+      "id": "unitedfinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "United Finance",
+      "name_bn": "ইউনাইটেড ফাইন্যান্স"
+    },
+    {
+      "id": "uttarafinance",
+      "kind": "nbfi",
+      "group": "private",
+      "name_en": "Uttara Finance & Investments",
+      "name_bn": "উত্তরা ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্টস"
+    }
+  ],
+  "insurers": [
+    {
+      "id": "jbc",
+      "line": "life",
+      "group": "state",
+      "name_en": "Jiban Bima Corporation",
+      "name_bn": "জীবন বীমা কর্পোরেশন"
+    },
+    {
+      "id": "metlife",
+      "line": "life",
+      "group": "foreign",
+      "name_en": "MetLife",
+      "name_bn": "মেটলাইফ"
+    },
+    {
+      "id": "licbd",
+      "line": "life",
+      "group": "foreign",
+      "name_en": "LIC of Bangladesh",
+      "name_bn": "এলআইসি অব বাংলাদেশ"
+    },
+    {
+      "id": "akijtakaful",
+      "line": "life",
+      "group": "private",
+      "name_en": "Akij Takaful Life Insurance",
+      "name_bn": "আকিজ তাকাফুল লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "alphaislami",
+      "line": "life",
+      "group": "private",
+      "name_en": "Alpha Islami Life Insurance",
+      "name_bn": "আলফা ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "astha",
+      "line": "life",
+      "group": "private",
+      "name_en": "Astha Life Insurance",
+      "name_bn": "আস্থা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "baira",
+      "line": "life",
+      "group": "private",
+      "name_en": "BAIRA Life Insurance",
+      "name_bn": "বায়রা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "bengalislami",
+      "line": "life",
+      "group": "private",
+      "name_en": "Bengal Islami Life Insurance",
+      "name_bn": "বেঙ্গল ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "bestlife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Best Life Insurance",
+      "name_bn": "বেস্ট লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "chartered",
+      "line": "life",
+      "group": "private",
+      "name_en": "Chartered Life Insurance",
+      "name_bn": "চার্টার্ড লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "deltalife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Delta Life Insurance",
+      "name_bn": "ডেল্টা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "diamond",
+      "line": "life",
+      "group": "private",
+      "name_en": "Diamond Life Insurance",
+      "name_bn": "ডায়মন্ড লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "fareastlife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Fareast Islami Life Insurance",
+      "name_bn": "ফারইস্ট ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "golden",
+      "line": "life",
+      "group": "private",
+      "name_en": "Golden Life Insurance",
+      "name_bn": "গোল্ডেন লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "guardian",
+      "line": "life",
+      "group": "private",
+      "name_en": "Guardian Life Insurance",
+      "name_bn": "গার্ডিয়ান লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "homeland",
+      "line": "life",
+      "group": "private",
+      "name_en": "Homeland Life Insurance",
+      "name_bn": "হোমল্যান্ড লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "jamunalife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Jamuna Life Insurance",
+      "name_bn": "যমুনা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "meghnalife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Meghna Life Insurance",
+      "name_bn": "মেঘনা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "mercantilelife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Mercantile Islami Life Insurance",
+      "name_bn": "মার্কেন্টাইল ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "nationallife",
+      "line": "life",
+      "group": "private",
+      "name_en": "National Life Insurance",
+      "name_bn": "ন্যাশনাল লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "nrbislamic",
+      "line": "life",
+      "group": "private",
+      "name_en": "NRB Islamic Life Insurance",
+      "name_bn": "এনআরবি ইসলামিক লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "padmalife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Padma Islami Life Insurance",
+      "name_bn": "পদ্মা ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "popularlife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Popular Life Insurance",
+      "name_bn": "পপুলার লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "pragatilife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Pragati Life Insurance",
+      "name_bn": "প্রগতি লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "primeislamilife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Prime Islami Life Insurance",
+      "name_bn": "প্রাইম ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "progressive",
+      "line": "life",
+      "group": "private",
+      "name_en": "Progressive Life Insurance",
+      "name_bn": "প্রগ্রেসিভ লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "protective",
+      "line": "life",
+      "group": "private",
+      "name_en": "Protective Islami Life Insurance",
+      "name_bn": "প্রটেক্টিভ ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "rupalilife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Rupali Life Insurance",
+      "name_bn": "রূপালী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sandhani",
+      "line": "life",
+      "group": "private",
+      "name_en": "Sandhani Life Insurance",
+      "name_bn": "সন্ধানী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "shanta",
+      "line": "life",
+      "group": "private",
+      "name_en": "Shanta Life Insurance",
+      "name_bn": "শান্তা লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sonalilife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Sonali Life Insurance",
+      "name_bn": "সোনালী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sunflower",
+      "line": "life",
+      "group": "private",
+      "name_en": "Sunflower Life Insurance",
+      "name_bn": "সানফ্লাওয়ার লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sunlife",
+      "line": "life",
+      "group": "private",
+      "name_en": "Sunlife Insurance",
+      "name_bn": "সানলাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "swadesh",
+      "line": "life",
+      "group": "private",
+      "name_en": "Swadesh Life Insurance",
+      "name_bn": "স্বদেশ লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "trustislami",
+      "line": "life",
+      "group": "private",
+      "name_en": "Trust Islami Life Insurance",
+      "name_bn": "ট্রাস্ট ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "zenith",
+      "line": "life",
+      "group": "private",
+      "name_en": "Zenith Islami Life Insurance",
+      "name_bn": "জেনিথ ইসলামী লাইফ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sbc",
+      "line": "general",
+      "group": "state",
+      "name_en": "Sadharan Bima Corporation",
+      "name_bn": "সাধারণ বীমা কর্পোরেশন"
+    },
+    {
+      "id": "agrani",
+      "line": "general",
+      "group": "private",
+      "name_en": "Agrani Insurance",
+      "name_bn": "অগ্রণী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "asia",
+      "line": "general",
+      "group": "private",
+      "name_en": "Asia Insurance",
+      "name_bn": "এশিয়া ইন্স্যুরেন্স"
+    },
+    {
+      "id": "asiapacific",
+      "line": "general",
+      "group": "private",
+      "name_en": "Asia Pacific General Insurance",
+      "name_bn": "এশিয়া প্যাসিফিক জেনারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "bdcoop",
+      "line": "general",
+      "group": "private",
+      "name_en": "Bangladesh Co-operative Insurance",
+      "name_bn": "বাংলাদেশ কো-অপারেটিভ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "bgic",
+      "line": "general",
+      "group": "private",
+      "name_en": "Bangladesh General Insurance",
+      "name_bn": "বাংলাদেশ জেনারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "bnicl",
+      "line": "general",
+      "group": "private",
+      "name_en": "Bangladesh National Insurance",
+      "name_bn": "বাংলাদেশ ন্যাশনাল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "central",
+      "line": "general",
+      "group": "private",
+      "name_en": "Central Insurance",
+      "name_bn": "সেন্ট্রাল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "city",
+      "line": "general",
+      "group": "private",
+      "name_en": "City Insurance",
+      "name_bn": "সিটি ইন্স্যুরেন্স"
+    },
+    {
+      "id": "continental",
+      "line": "general",
+      "group": "private",
+      "name_en": "Continental Insurance",
+      "name_bn": "কন্টিনেন্টাল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "crystal",
+      "line": "general",
+      "group": "private",
+      "name_en": "Crystal Insurance",
+      "name_bn": "ক্রিস্টাল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "desh",
+      "line": "general",
+      "group": "private",
+      "name_en": "Desh General Insurance",
+      "name_bn": "দেশ জেনারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "dhaka",
+      "line": "general",
+      "group": "private",
+      "name_en": "Dhaka Insurance",
+      "name_bn": "ঢাকা ইন্স্যুরেন্স"
+    },
+    {
+      "id": "eastern",
+      "line": "general",
+      "group": "private",
+      "name_en": "Eastern Insurance",
+      "name_bn": "ইস্টার্ন ইন্স্যুরেন্স"
+    },
+    {
+      "id": "eastland",
+      "line": "general",
+      "group": "private",
+      "name_en": "Eastland Insurance",
+      "name_bn": "ইস্টল্যান্ড ইন্স্যুরেন্স"
+    },
+    {
+      "id": "express",
+      "line": "general",
+      "group": "private",
+      "name_en": "Express Insurance",
+      "name_bn": "এক্সপ্রেস ইন্স্যুরেন্স"
+    },
+    {
+      "id": "federal",
+      "line": "general",
+      "group": "private",
+      "name_en": "Federal Insurance",
+      "name_bn": "ফেডারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "global",
+      "line": "general",
+      "group": "private",
+      "name_en": "Global Insurance",
+      "name_bn": "গ্লোবাল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "greendelta",
+      "line": "general",
+      "group": "private",
+      "name_en": "Green Delta Insurance",
+      "name_bn": "গ্রিন ডেল্টা ইন্স্যুরেন্স"
+    },
+    {
+      "id": "islamicommercial",
+      "line": "general",
+      "group": "private",
+      "name_en": "Islami Commercial Insurance",
+      "name_bn": "ইসলামী কমার্শিয়াল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "islamiinsurance",
+      "line": "general",
+      "group": "private",
+      "name_en": "Islami Insurance Bangladesh",
+      "name_bn": "ইসলামী ইন্স্যুরেন্স বাংলাদেশ"
+    },
+    {
+      "id": "janata",
+      "line": "general",
+      "group": "private",
+      "name_en": "Janata Insurance",
+      "name_bn": "জনতা ইন্স্যুরেন্স"
+    },
+    {
+      "id": "karnaphuli",
+      "line": "general",
+      "group": "private",
+      "name_en": "Karnaphuli Insurance",
+      "name_bn": "কর্ণফুলী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "meghna",
+      "line": "general",
+      "group": "private",
+      "name_en": "Meghna Insurance",
+      "name_bn": "মেঘনা ইন্স্যুরেন্স"
+    },
+    {
+      "id": "mercantile",
+      "line": "general",
+      "group": "private",
+      "name_en": "Mercantile Islami Insurance",
+      "name_bn": "মার্কেন্টাইল ইসলামী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "nitol",
+      "line": "general",
+      "group": "private",
+      "name_en": "Nitol Insurance",
+      "name_bn": "নিটল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "northern",
+      "line": "general",
+      "group": "private",
+      "name_en": "Northern General Insurance",
+      "name_bn": "নর্দান জেনারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "paramount",
+      "line": "general",
+      "group": "private",
+      "name_en": "Paramount Insurance",
+      "name_bn": "প্যারামাউন্ট ইন্স্যুরেন্স"
+    },
+    {
+      "id": "peoples",
+      "line": "general",
+      "group": "private",
+      "name_en": "Peoples Insurance",
+      "name_bn": "পিপলস ইন্স্যুরেন্স"
+    },
+    {
+      "id": "phoenix",
+      "line": "general",
+      "group": "private",
+      "name_en": "Phoenix Insurance",
+      "name_bn": "ফিনিক্স ইন্স্যুরেন্স"
+    },
+    {
+      "id": "pioneer",
+      "line": "general",
+      "group": "private",
+      "name_en": "Pioneer Insurance",
+      "name_bn": "পাইওনিয়ার ইন্স্যুরেন্স"
+    },
+    {
+      "id": "pragati",
+      "line": "general",
+      "group": "private",
+      "name_en": "Pragati Insurance",
+      "name_bn": "প্রগতি ইন্স্যুরেন্স"
+    },
+    {
+      "id": "prime",
+      "line": "general",
+      "group": "private",
+      "name_en": "Prime Insurance",
+      "name_bn": "প্রাইম ইন্স্যুরেন্স"
+    },
+    {
+      "id": "provati",
+      "line": "general",
+      "group": "private",
+      "name_en": "Provati Insurance",
+      "name_bn": "প্রভাতী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "purabi",
+      "line": "general",
+      "group": "private",
+      "name_en": "Purabi General Insurance",
+      "name_bn": "পূরবী জেনারেল ইন্স্যুরেন্স"
+    },
+    {
+      "id": "reliance",
+      "line": "general",
+      "group": "private",
+      "name_en": "Reliance Insurance",
+      "name_bn": "রিলায়েন্স ইন্স্যুরেন্স"
+    },
+    {
+      "id": "republic",
+      "line": "general",
+      "group": "private",
+      "name_en": "Republic Insurance",
+      "name_bn": "রিপাবলিক ইন্স্যুরেন্স"
+    },
+    {
+      "id": "rupali",
+      "line": "general",
+      "group": "private",
+      "name_en": "Rupali Insurance",
+      "name_bn": "রূপালী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "senakalyan",
+      "line": "general",
+      "group": "private",
+      "name_en": "Sena Kalyan Insurance",
+      "name_bn": "সেনা কল্যাণ ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sikder",
+      "line": "general",
+      "group": "private",
+      "name_en": "Sikder Insurance",
+      "name_bn": "সিকদার ইন্স্যুরেন্স"
+    },
+    {
+      "id": "sonarbangla",
+      "line": "general",
+      "group": "private",
+      "name_en": "Sonar Bangla Insurance",
+      "name_bn": "সোনার বাংলা ইন্স্যুরেন্স"
+    },
+    {
+      "id": "southasia",
+      "line": "general",
+      "group": "private",
+      "name_en": "South Asia Insurance",
+      "name_bn": "সাউথ এশিয়া ইন্স্যুরেন্স"
+    },
+    {
+      "id": "standard",
+      "line": "general",
+      "group": "private",
+      "name_en": "Standard Insurance",
+      "name_bn": "স্ট্যান্ডার্ড ইন্স্যুরেন্স"
+    },
+    {
+      "id": "takaful",
+      "line": "general",
+      "group": "private",
+      "name_en": "Takaful Islami Insurance",
+      "name_bn": "তাকাফুল ইসলামী ইন্স্যুরেন্স"
+    },
+    {
+      "id": "union",
+      "line": "general",
+      "group": "private",
+      "name_en": "Union Insurance",
+      "name_bn": "ইউনিয়ন ইন্স্যুরেন্স"
+    },
+    {
+      "id": "united",
+      "line": "general",
+      "group": "private",
+      "name_en": "United Insurance",
+      "name_bn": "ইউনাইটেড ইন্স্যুরেন্স"
+    }
+  ]
+}

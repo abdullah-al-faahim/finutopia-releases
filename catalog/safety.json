@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "note": "Bank ratings are Bangladesh Bank's list of ECAI ratings for 2025-26 (financial statements of 31 December 2024). 'grade' is Bangladesh Bank's 1-6 equivalent: 1 is AAA to AA-, 6 is CCC and below. A bank with two ratings takes the worse; state banks use the standalone rating. ICICI Bank is not on the list. Update when Bangladesh Bank or the agencies publish newer ratings.",
+  "ratings_source": {
+    "name": "Bangladesh Bank: ECAIs credit rating of scheduled banks 2025-26",
+    "url": "https://www.bb.org.bd/fnansys/ecai_rating/ecai_credit_rating.pdf",
+    "as_of": "2026-04-26"
+  },
+  "protection": {
+    "bank": {
+      "limit": 20000000,
+      "law": "Deposit Protection Act, 2026",
+      "law_bn": "আমানত সুরক্ষা আইন, ২০২৬",
+      "url": "https://www.bssnews.net/js-session/376349"
+    },
+    "nbfi": {
+      "limit": 20000000,
+      "join_by": "2028-07-01",
+      "law": "Deposit Protection Act, 2026",
+      "law_bn": "আমানত সুরক্ষা আইন, ২০২৬",
+      "url": "https://thefinancialexpress.com.bd/home/new-ordinance-increases-bank-deposit-protection-to-tk-200000"
+    }
+  },
+  "institutions": {
+    "ab": {
+      "agency": "ARGUS",
+      "rating": "A-",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-06-17"
+    },
+    "agrani": {
+      "agency": "NCRL",
+      "rating": "A",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-09-02"
+    },
+    "aibl": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-3",
+      "valid_until": "2026-07-13"
+    },
+    "alfalah": {
+      "agency": "ECRL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-04-27"
+    },
+    "bankasia": {
+      "agency": "CRISL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-07-01"
+    },
+    "basic": {
+      "agency": "ECRL",
+      "rating": "B+",
+      "grade": 5,
+      "short": "ST-5",
+      "valid_until": "2026-07-23"
+    },
+    "bcbl": {
+      "agency": "NCRL",
+      "rating": "BB+",
+      "grade": 4,
+      "short": "ST-4",
+      "valid_until": "2026-09-01"
+    },
+    "bdbl": {
+      "agency": "CRAB",
+      "rating": "A3",
+      "grade": 2,
+      "short": "ST-3",
+      "valid_until": "2026-06-30"
+    },
+    "bengal": {
+      "agency": "ECRL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-03"
+    },
+    "bkb": {
+      "unrated": true
+    },
+    "brac": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "cbc": {
+      "agency": "CRISL",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-01"
+    },
+    "citi": {
+      "agency": "S&P",
+      "rating": "A+",
+      "grade": 2
+    },
+    "citizens": {
+      "agency": "Alpha",
+      "rating": "A",
+      "grade": 2,
+      "short": "ST-3",
+      "valid_until": "2026-06-29"
+    },
+    "city": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "community": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-05-18"
+    },
+    "dbbl": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "dhaka": {
+      "agency": "ECRL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-04-07"
+    },
+    "ebl": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "exim": {
+      "unrated": true,
+      "merged_into": "sammilito"
+    },
+    "fsibl": {
+      "agency": "ECRL",
+      "rating": "BB+",
+      "grade": 4,
+      "short": "ST-4",
+      "valid_until": "2026-05-14",
+      "merged_into": "sammilito"
+    },
+    "gib": {
+      "unrated": true,
+      "merged_into": "sammilito"
+    },
+    "hbl": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-01"
+    },
+    "hsbc": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "ibbl": {
+      "agency": "ECRL",
+      "rating": "A",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-07-05"
+    },
+    "icbib": {
+      "unrated": true
+    },
+    "ific": {
+      "agency": "ECRL",
+      "rating": "BBB+",
+      "grade": 3,
+      "short": "ST-3",
+      "valid_until": "2026-06-30"
+    },
+    "jamuna": {
+      "agency": "CRAB",
+      "rating": "AA1",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "janata": {
+      "agency": "CRAB",
+      "rating": "A3",
+      "grade": 2,
+      "short": "ST-3",
+      "valid_until": "2026-06-30"
+    },
+    "meghna": {
+      "agency": "Alpha",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-22"
+    },
+    "mercantile": {
+      "agency": "CRISL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-07-09"
+    },
+    "midland": {
+      "agency": "ECRL",
+      "rating": "A+",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-06-30"
+    },
+    "modhumoti": {
+      "agency": "CRAB",
+      "rating": "AA2",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-30"
+    },
+    "mtb": {
+      "agency": "CRISL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-05-14"
+    },
+    "nbl": {
+      "agency": "ECRL",
+      "rating": "BBB",
+      "grade": 3,
+      "short": "ST-3",
+      "valid_until": "2026-07-13"
+    },
+    "nbp": {
+      "agency": "CRAB",
+      "rating": "BBB1",
+      "grade": 3,
+      "short": "ST-3",
+      "valid_until": "2026-06-30"
+    },
+    "ncc": {
+      "agency": "CRISL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-23"
+    },
+    "nrb": {
+      "agency": "CRISL",
+      "rating": "A+",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-07-01"
+    },
+    "nrbc": {
+      "agency": "ECRL",
+      "rating": "A+",
+      "grade": 2,
+      "short": "ST-3",
+      "valid_until": "2026-06-21"
+    },
+    "one": {
+      "agency": "ECRL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-03-09"
+    },
+    "padma": {
+      "agency": "ECRL",
+      "rating": "B+",
+      "grade": 5,
+      "short": "ST-5",
+      "valid_until": "2025-12-29"
+    },
+    "pkb": {
+      "unrated": true
+    },
+    "premier": {
+      "agency": "ARGUS",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-09-22"
+    },
+    "prime": {
+      "agency": "CRAB",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "pubali": {
+      "agency": "CRISL",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-05-31"
+    },
+    "rakub": {
+      "agency": "Alpha",
+      "rating": "BB",
+      "grade": 4,
+      "short": "ST-3",
+      "valid_until": "2026-11-10"
+    },
+    "rupali": {
+      "agency": "NCRL",
+      "rating": "BBB+",
+      "grade": 3,
+      "short": "ST-3",
+      "valid_until": "2026-08-19"
+    },
+    "sbac": {
+      "agency": "CRISL",
+      "rating": "A",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-06-24"
+    },
+    "sbi": {
+      "agency": "Alpha",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-05-31"
+    },
+    "scb": {
+      "agency": "CRISL",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-05-14"
+    },
+    "shimanto": {
+      "agency": "CRISL",
+      "rating": "A",
+      "grade": 2,
+      "short": "ST-2",
+      "valid_until": "2026-12-28"
+    },
+    "sibl": {
+      "agency": "ECRL",
+      "rating": "BBB+",
+      "grade": 3,
+      "short": "ST-3",
+      "valid_until": "2026-05-15",
+      "merged_into": "sammilito"
+    },
+    "sjibl": {
+      "agency": "ECRL",
+      "rating": "AA+",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-03-24"
+    },
+    "sonali": {
+      "agency": "CRISL",
+      "rating": "AA-",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-29"
+    },
+    "southeast": {
+      "agency": "CRISL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-08-08"
+    },
+    "standard": {
+      "agency": "NCRL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-23"
+    },
+    "trust": {
+      "agency": "CRAB",
+      "rating": "AA1",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-30"
+    },
+    "ucb": {
+      "agency": "ECRL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-05-06"
+    },
+    "union": {
+      "unrated": true,
+      "merged_into": "sammilito"
+    },
+    "uttara": {
+      "agency": "ECRL",
+      "rating": "AA",
+      "grade": 1,
+      "short": "ST-2",
+      "valid_until": "2026-06-30"
+    },
+    "woori": {
+      "agency": "Alpha",
+      "rating": "AAA",
+      "grade": 1,
+      "short": "ST-1",
+      "valid_until": "2026-06-29"
+    }
+  }
+}
