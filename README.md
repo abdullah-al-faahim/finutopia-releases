@@ -29,7 +29,7 @@ way it actually works in Bangladesh: cash in your pocket, bKash and Nagad on you
 account, a DPS you pay every month, Sanchayapatra that pays you every month, an EMI you owe, and an
 insurance premium coming up. It shows where you stand today and what is coming next.
 
-- **Made for Bangladesh.** bKash, Nagad, Rocket and every major bank with its own logo. Amounts in
+- **Made for Bangladesh.** bKash, Nagad, Rocket, every major bank and the finance companies (NBFIs), with their logos. Amounts in
   lakh and crore (৳3,97,296). Sanchayapatra rate tables and tax bands, bank source tax and excise
   duty, and bKash DPS and bKash Loan built in.
 - **Your whole picture, not just spending.** Spending, budgets, savings, loans and insurance live
@@ -40,7 +40,8 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - **Private by design.** No sign-up and no server. Your data stays on your phone in an encrypted
   database, behind an optional PIN or fingerprint. Backups are encrypted with a passphrase only
   you know, so even Google Drive can't read them.
-- **Bangla first.** The whole app works in Bangla or English, with Bangla or English digits.
+- **Bangla first.** The whole app works in Bangla or English, with Bangla or English digits. The
+  Bangla reads the way Bangladeshi banks and bKash talk, not like a translation.
 
 ## Key features
 
@@ -64,6 +65,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - **Profit straight to your bank:** monthly or quarterly profit is added to your bank account on its day, after tax
 - **bKash DPS** with BRAC Bank, Dhaka Bank, Eastern Bank, IDLC, MTB and City Bank, paid from and back into bKash, monthly or weekly (from Tk 250 a week)
 - **bKash FDR** with Eastern Bank or IDLC: Tk 10,000 to 1 lakh for 6 or 12 months, profit every 3 or 6 months into bKash
+- **Finance companies:** the 30 NBFIs that take deposits (IDLC, IPDC, LankaBangla, DBH and more) for FDRs, DPSs and loans, with a caution on the nine Bangladesh Bank is winding up
 
 **Loans and EMIs**
 - Bank loans, card EMIs, money from family, already-running loans
