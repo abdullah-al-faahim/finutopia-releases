@@ -1,0 +1,6 @@
+{
+  "version": "0.2.20",
+  "notes": "â€¢ Update notices you will not miss. Sometimes a new version was out but the app never said so. It now checks in a way that is not blocked when many phones share one mobile network, it no longer waits for the Google Drive backup to finish, and it checks again when you come back to the app after a few hours.\n\nâ€¢ A new version now pops up once on its own, with what is new and a button to download and install it. If you use a PIN, it shows after you unlock. Close it and the card on Home and the red dot in Settings stay until you update.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.20-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays.",
+  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.20/FinUtopia-0.2.20.apk",
+  "size": 86162260
+}
