@@ -14,7 +14,6 @@
   <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/downloads/abdullah-al-faahim/finutopia-releases/latest/total?label=latest%20version%20downloads&color=6B4AFF" alt="Downloads of the latest version"></a>
   <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/v/release/abdullah-al-faahim/finutopia-releases?label=latest&color=3A10AD" alt="Latest version"></a>
   <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/release-date/abdullah-al-faahim/finutopia-releases?label=released&color=6B4AFF" alt="Release date"></a>
-  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/stargazers"><img src="https://img.shields.io/github/stars/abdullah-al-faahim/finutopia-releases?style=flat&color=3A10AD&logo=github" alt="GitHub stars"></a>
 </p>
 
 <p align="center">
