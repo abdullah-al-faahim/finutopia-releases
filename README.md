@@ -31,10 +31,20 @@
   <img src="https://img.shields.io/badge/made%20in-Bangladesh-006A4E" alt="Made in Bangladesh">
 </p>
 
-<p align="center">
-  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><b>⬇ Download the latest APK</b></a>
-  &nbsp;·&nbsp; Android 8.0 or newer, iPhone (iOS 15+, test build) &nbsp;·&nbsp; Free
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24.apk"><img src="https://img.shields.io/badge/Download_for-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="56" alt="Download for Android"></a><br>
+      <sub>v0.2.24 · APK, 77 MB · Android 8.0 or newer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24-ios-unsigned.ipa"><img src="https://img.shields.io/badge/Download_for-iPhone-000000?style=for-the-badge&logo=apple&logoColor=white" height="56" alt="Download for iPhone"></a><br>
+      <sub>v0.2.24 · test build, 16 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Free · <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases">All versions</a></sub></p>
 
 <p align="center">
   <img src="screenshots/01_home.png" width="230" alt="Home">
@@ -177,8 +187,8 @@ insurance premium coming up. It shows where you stand today and what is coming n
 **iPhone (test build):** download the `.ipa` from the same release and install it with
 [Sideloadly](https://sideloadly.io) or AltStore and your Apple ID, then trust your Apple ID under
 Settings → General → VPN & Device Management (and turn on Developer Mode on iOS 16+). With a free
-Apple ID, reinstall every 7 days; your data stays. Google Drive backup and in-app updates are
-Android-only for now.
+Apple ID, reinstall every 7 days; your data stays. Google Drive and folder backups and in-app
+updates are Android-only for now.
 
 **Updating:** FinUtopia checks for new versions by itself. When one is out you'll see it on the Home
 screen, or go to **Settings → App updates**. It installs over the current version and your data stays.
