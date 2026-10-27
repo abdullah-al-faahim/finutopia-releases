@@ -10,6 +10,29 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases"><img src="https://img.shields.io/github/downloads/abdullah-al-faahim/finutopia-releases/total?label=downloads&color=3A10AD&logo=github" alt="Total downloads"></a>
+  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/downloads/abdullah-al-faahim/finutopia-releases/latest/total?label=latest%20version%20downloads&color=6B4AFF" alt="Downloads of the latest version"></a>
+  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/v/release/abdullah-al-faahim/finutopia-releases?label=latest&color=3A10AD" alt="Latest version"></a>
+  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><img src="https://img.shields.io/github/release-date/abdullah-al-faahim/finutopia-releases?label=released&color=6B4AFF" alt="Release date"></a>
+  <a href="https://github.com/abdullah-al-faahim/finutopia-releases/stargazers"><img src="https://img.shields.io/github/stars/abdullah-al-faahim/finutopia-releases?style=flat&color=3A10AD&logo=github" alt="GitHub stars"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white" alt="Android 8.0 or newer">
+  <img src="https://img.shields.io/badge/iOS-15%2B%20(test%20build)-000000?logo=apple&logoColor=white" alt="iOS 15 or newer, test build">
+  <img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?logo=flutter&logoColor=white" alt="Built with Flutter">
+  <img src="https://img.shields.io/badge/language-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%7C%20English-006A4E" alt="Bangla and English">
+  <br>
+  <img src="https://img.shields.io/badge/works-offline-2E7D32" alt="Works offline">
+  <img src="https://img.shields.io/badge/data-encrypted%20on%20your%20phone-2E7D32?logo=letsencrypt&logoColor=white" alt="Data encrypted on your phone">
+  <img src="https://img.shields.io/badge/ads-none-2E7D32" alt="No ads">
+  <img src="https://img.shields.io/badge/trackers-none-2E7D32" alt="No trackers">
+  <img src="https://img.shields.io/badge/sign--up-not%20needed-2E7D32" alt="No sign-up">
+  <img src="https://img.shields.io/badge/price-free-2E7D32" alt="Free">
+  <img src="https://img.shields.io/badge/made%20in-Bangladesh-006A4E" alt="Made in Bangladesh">
+</p>
+
+<p align="center">
   <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/latest"><b>⬇ Download the latest APK</b></a>
   &nbsp;·&nbsp; Android 8.0 or newer, iPhone (iOS 15+, test build) &nbsp;·&nbsp; Free
 </p>
