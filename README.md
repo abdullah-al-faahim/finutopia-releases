@@ -34,12 +34,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.2.24 · APK, 77 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.25/FinUtopia-0.2.25.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.2.25 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
-      <sub>v0.2.24 · test build, 16 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.25/FinUtopia-0.2.25-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
+      <sub>v0.2.25 · test build, 19 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
     </td>
   </tr>
 </table>
@@ -81,8 +81,10 @@ insurance premium coming up. It shows where you stand today and what is coming n
 ## Key features
 
 **Everyday money**
-- Cash, mobile wallets (bKash, Nagad, Rocket, Upay and more), bank accounts and cards; 70+ providers with logos
-- Quick actions on Home: expense, income or transfer in one tap; a big keypad shows amounts in words
+- Cash, mobile wallets (bKash, Nagad, Rocket, Upay and more), bank accounts, Rapid Pass and cards; 100+ providers with logos
+- Credit, debit and prepaid cards: a debit card shows its bank account's balance, a credit card what you owe and what is left of the limit
+- Dual currency cards: a separate dollar side with your own rate, and entries in taka or dollars
+- Quick actions on Home: expense, income, transfer or lend in one tap; a big keypad shows amounts in words
 - Transfers with fees worked out for you: cash out, add money, bank to wallet
 - Search and filter every entry by account, category, income source or date
 
@@ -123,7 +125,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 
 **Insurance**
 - Life, health, motor, property and travel policies
-- Pick the insurer from all 82 IDRA-licensed companies (36 life, 46 general), in Bangla or English
+- Pick the insurer from all 82 IDRA-licensed companies (36 life, 46 general), with their logos, in Bangla or English
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
 
 **Reports for you and your tax return**
