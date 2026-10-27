@@ -1,7 +1,7 @@
 {
-  "version": "0.2.23",
-  "notes": "• Microcredit lenders added. When you add a loan or a savings plan, the list now has 25 NGOs that give microcredit, including BRAC, ASA, BURO Bangladesh, TMSS, Jagorani Chakra Foundation, SAJIDA, Shakti and Uddipan, and 9 government lenders, including Grameen Bank, BRDB, Palli Sanchay Bank and Karmasangsthan Bank. Each is marked as a microcredit NGO or government microcredit.\n\n• Logos for most of these lenders, and for IDLC Finance and LankaBangla Finance.\n\n• Rapid Pass now shows its own logo.\n\n• The app is more robust when bank lists are updated online.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.23-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays.",
-  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.23/FinUtopia-0.2.23.apk",
-  "size": 80667941,
-  "sha256": "17072060247373a4f6675845b0386af52daeaf33bc10dcfa77477dd38cc10279"
+  "version": "0.2.24",
+  "notes": "• Weekly backup to a folder. In Settings, Backup, choose one folder on your phone, such as Download or a folder on your memory card, and set a passphrase. Once a week, when you open the app, FinUtopia saves an encrypted backup there. It replaces the same file every time (FinUtopia-auto-backup.fubak), so it never fills up your phone. FinUtopia can open only that folder.\n\n• To get your data back, use Restore from backup and pick that file.\n\n• If the folder can't be written any more, for example after it was deleted, Settings tells you to choose it again.\n\n• The reminder to back up on Home now also counts Google Drive and folder backups.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.24-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays. The folder backup is Android only.",
+  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24.apk",
+  "size": 80733709,
+  "sha256": "d80fd67ed225f40216f584c2742575bd4613649d88df8494ad9732291b10c874"
 }
