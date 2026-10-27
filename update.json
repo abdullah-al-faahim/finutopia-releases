@@ -1,7 +1,7 @@
 {
-  "version": "0.2.22",
-  "notes": "• Release notes in the update window show proper bullet points again, instead of strange symbols.\n\n• Fixed screens that did not fit on smaller phones, especially in Bangla and with large text: the daily saving streak and savings goals on Home, goals and category limits in Budget, buttons beside section titles in Wealth, and the progress line on a loan's page. Amounts now wrap neatly instead of being cut off.\n\n• Every screen of the app was checked on a small phone in Bangla and English, with and without large text.\n\nThis version also has everything from 0.2.21: the stronger app lock, 6-digit PINs, stronger backups, the privacy policy, fraud safety tips and Delete all my data.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.22-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays.",
-  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.22/FinUtopia-0.2.22.apk",
-  "size": 80084916,
-  "sha256": "31ce26cdd3b8eebdb4a53e14fec0cda7fe2e3ef869f30443680b420ca9589b1a"
+  "version": "0.2.23",
+  "notes": "• Microcredit lenders added. When you add a loan or a savings plan, the list now has 25 NGOs that give microcredit, including BRAC, ASA, BURO Bangladesh, TMSS, Jagorani Chakra Foundation, SAJIDA, Shakti and Uddipan, and 9 government lenders, including Grameen Bank, BRDB, Palli Sanchay Bank and Karmasangsthan Bank. Each is marked as a microcredit NGO or government microcredit.\n\n• Logos for most of these lenders, and for IDLC Finance and LankaBangla Finance.\n\n• Rapid Pass now shows its own logo.\n\n• The app is more robust when bank lists are updated online.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.23-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays.",
+  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.23/FinUtopia-0.2.23.apk",
+  "size": 80667941,
+  "sha256": "17072060247373a4f6675845b0386af52daeaf33bc10dcfa77477dd38cc10279"
 }
