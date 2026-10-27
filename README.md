@@ -34,11 +34,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24.apk"><img src="https://img.shields.io/badge/Download_for-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="56" alt="Download for Android"></a><br>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
       <sub>v0.2.24 · APK, 77 MB · Android 8.0 or newer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24-ios-unsigned.ipa"><img src="https://img.shields.io/badge/Download_for-iPhone-000000?style=for-the-badge&logo=apple&logoColor=white" height="56" alt="Download for iPhone"></a><br>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.24/FinUtopia-0.2.24-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
       <sub>v0.2.24 · test build, 16 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
     </td>
   </tr>
