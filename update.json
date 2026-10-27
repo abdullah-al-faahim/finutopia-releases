@@ -1,7 +1,7 @@
 {
-  "version": "0.2.26",
-  "notes": "• A calmer Accounts card on Wealth. Your total sits at the top, with one slim bar showing how your money is spread across cash, wallets and banks. Each group has a quiet heading, and paisa are shown smaller so the main amount reads first.\n\n• Debit cards are shown in grey on Wealth, because their balance is their bank account's.\n\n• Saved on Home no longer repeats your spending as a minus when no income is recorded yet this budget month. It says \"No income yet\" until you add income.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays.\n\niPhone (test build): FinUtopia-0.2.26-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays. The folder backup is Android only.",
-  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.26/FinUtopia-0.2.26.apk",
-  "size": 84978578,
-  "sha256": "4c70f2c40ffcc07b76021b8381859dac94aaea7e70981ea5fac7c98ff983726d"
+  "version": "0.2.27",
+  "notes": "• A maintenance build: the part of the app that moves between screens and tabs is updated to its latest fix release.\n\n• No new features since 0.2.26. If you already have 0.2.26, this update changes nothing you will notice.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.\n\niPhone (test build): FinUtopia-0.2.27-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays. The folder backup is Android only.",
+  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.27/FinUtopia-0.2.27.apk",
+  "size": 84978610,
+  "sha256": "373ae7a0126609414ae16e5639c69d13817dcdb8d15436e7fad029254e15ae8a"
 }
