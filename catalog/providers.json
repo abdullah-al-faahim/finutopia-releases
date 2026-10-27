@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "note": "Names and logos are trademarks of their owners. Logos are shown only for providers listed with a 'logo'; confirm permission before release (PRD §13). Fee profiles are approximate defaults the user can edit. Verify before each release. Finance companies (kind \"nbfi\") are the 30 deposit-taking NBFCs in Bangladesh Bank's NBFC statistics (April-June 2026); group \"resolution\" marks those in its 2026 wind-up plan. Sammilito Islami Bank (2026) is the merger of EXIM, First Security, Global Islami, Social Islami and Union Bank; safety.json marks the five. Insurers are the 36 life and 46 general (non-life) insurers IDRA licenses; a policy stores the English name.",
+  "version": 7,
+  "note": "Names and logos are trademarks of their owners. Logos are shown only for providers listed with a 'logo'; confirm permission before release (PRD §13). Fee profiles are approximate defaults the user can edit. Verify before each release. Finance companies (kind \"nbfi\") are the 30 deposit-taking NBFCs in Bangladesh Bank's NBFC statistics (April-June 2026); group \"resolution\" marks those in its 2026 wind-up plan. Sammilito Islami Bank (2026) is the merger of EXIM, First Security, Global Islami, Social Islami and Union Bank; safety.json marks the five. Insurers are the 36 life and 46 general (non-life) insurers IDRA licenses; a policy stores the English name. Microcredit lenders are kind \"other\" (older apps know no other kind) with group \"microcredit\" (NGOs licensed by the Microcredit Regulatory Authority: its 20 largest by loans outstanding plus well-known ones) or \"microcredit_govt\" (Grameen Bank and government lenders).",
   "providers": [
     {
       "id": "bkash",
@@ -870,6 +870,244 @@
       "group": "private",
       "name_en": "Uttara Finance & Investments",
       "name_bn": "উত্তরা ফাইন্যান্স অ্যান্ড ইনভেস্টমেন্টস"
+    },
+    {
+      "id": "mfi_brac",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "BRAC (microfinance)",
+      "name_bn": "ব্র্যাক (ক্ষুদ্রঋণ)"
+    },
+    {
+      "id": "mfi_asa",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "ASA",
+      "name_bn": "আশা"
+    },
+    {
+      "id": "mfi_buro",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "BURO Bangladesh",
+      "name_bn": "বুরো বাংলাদেশ"
+    },
+    {
+      "id": "mfi_tmss",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "TMSS",
+      "name_bn": "টিএমএসএস"
+    },
+    {
+      "id": "mfi_sss",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Society for Social Service (SSS)",
+      "name_bn": "সোসাইটি ফর সোশ্যাল সার্ভিস (এসএসএস)"
+    },
+    {
+      "id": "mfi_jcf",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Jagorani Chakra Foundation",
+      "name_bn": "জাগরণী চক্র ফাউন্ডেশন"
+    },
+    {
+      "id": "mfi_padakhep",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Padakhep Manabik Unnayan Kendra",
+      "name_bn": "পদক্ষেপ মানবিক উন্নয়ন কেন্দ্র"
+    },
+    {
+      "id": "mfi_uddipan",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "UDDIPAN",
+      "name_bn": "উদ্দীপন"
+    },
+    {
+      "id": "mfi_sajida",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "SAJIDA Foundation",
+      "name_bn": "সাজেদা ফাউন্ডেশন"
+    },
+    {
+      "id": "mfi_pmk",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Palli Mongal Karmosuchi (PMK)",
+      "name_bn": "পল্লী মঙ্গল কর্মসূচী (পিএমকে)"
+    },
+    {
+      "id": "mfi_shakti",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Shakti Foundation",
+      "name_bn": "শক্তি ফাউন্ডেশন"
+    },
+    {
+      "id": "mfi_guk",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Gram Unnayan Karma (GUK)",
+      "name_bn": "গ্রাম উন্নয়ন কর্ম (গাক)"
+    },
+    {
+      "id": "mfi_rrf",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Rural Reconstruction Foundation (RRF)",
+      "name_bn": "রুরাল রিকনস্ট্রাকশন ফাউন্ডেশন (আরআরএফ)"
+    },
+    {
+      "id": "mfi_cdip",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "CDIP",
+      "name_bn": "সিদীপ"
+    },
+    {
+      "id": "mfi_bees",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "BEES",
+      "name_bn": "বিস"
+    },
+    {
+      "id": "mfi_ric",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Resource Integration Centre (RIC)",
+      "name_bn": "রিসোর্স ইন্টিগ্রেশন সেন্টার (রিক)"
+    },
+    {
+      "id": "mfi_popi",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "POPI",
+      "name_bn": "পপি"
+    },
+    {
+      "id": "mfi_rdrs",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "RDRS Bangladesh",
+      "name_bn": "আরডিআরএস বাংলাদেশ"
+    },
+    {
+      "id": "mfi_dsk",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Dushtha Shasthya Kendra (DSK)",
+      "name_bn": "দুঃস্থ স্বাস্থ্য কেন্দ্র (ডিএসকে)"
+    },
+    {
+      "id": "mfi_css",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Christian Service Society (CSS)",
+      "name_bn": "খ্রিস্টান সার্ভিস সোসাইটি (সিএসএস)"
+    },
+    {
+      "id": "mfi_coast",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "COAST Foundation",
+      "name_bn": "কোস্ট ফাউন্ডেশন"
+    },
+    {
+      "id": "mfi_esdo",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "ESDO",
+      "name_bn": "ইএসডিও"
+    },
+    {
+      "id": "mfi_ghashful",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Ghashful",
+      "name_bn": "ঘাসফুল"
+    },
+    {
+      "id": "mfi_caritas",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Caritas Bangladesh",
+      "name_bn": "কারিতাস বাংলাদেশ"
+    },
+    {
+      "id": "mfi_proshika",
+      "kind": "other",
+      "group": "microcredit",
+      "name_en": "Proshika",
+      "name_bn": "প্রশিকা"
+    },
+    {
+      "id": "mfi_grameenbank",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Grameen Bank",
+      "name_bn": "গ্রামীণ ব্যাংক"
+    },
+    {
+      "id": "mfi_brdb",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Bangladesh Rural Development Board (BRDB)",
+      "name_bn": "বাংলাদেশ পল্লী উন্নয়ন বোর্ড (বিআরডিবি)"
+    },
+    {
+      "id": "mfi_pdbf",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Palli Daridro Bimochon Foundation (PDBF)",
+      "name_bn": "পল্লী দারিদ্র্য বিমোচন ফাউন্ডেশন (পিডিবিএফ)"
+    },
+    {
+      "id": "mfi_sfdf",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Small Farmers Development Foundation (SFDF)",
+      "name_bn": "ক্ষুদ্র কৃষক উন্নয়ন ফাউন্ডেশন (এসএফডিএফ)"
+    },
+    {
+      "id": "mfi_psb",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Palli Sanchay Bank",
+      "name_bn": "পল্লী সঞ্চয় ব্যাংক"
+    },
+    {
+      "id": "mfi_kb",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Karmasangsthan Bank",
+      "name_bn": "কর্মসংস্থান ব্যাংক"
+    },
+    {
+      "id": "mfi_avub",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Ansar-VDP Unnayan Bank",
+      "name_bn": "আনসার-ভিডিপি উন্নয়ন ব্যাংক"
+    },
+    {
+      "id": "mfi_dyd",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Department of Youth Development",
+      "name_bn": "যুব উন্নয়ন অধিদপ্তর"
+    },
+    {
+      "id": "mfi_dss",
+      "kind": "other",
+      "group": "microcredit_govt",
+      "name_en": "Department of Social Services",
+      "name_bn": "সমাজসেবা অধিদপ্তর"
     }
   ],
   "insurers": [
