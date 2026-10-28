@@ -34,12 +34,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.27/FinUtopia-0.2.27.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.2.27 · APK, 81 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.28/FinUtopia-0.2.28.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.2.28 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.27/FinUtopia-0.2.27-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
-      <sub>v0.2.27 · test build, 19 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.28/FinUtopia-0.2.28-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
+      <sub>v0.2.28 · test build, 19 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
     </td>
   </tr>
 </table>
