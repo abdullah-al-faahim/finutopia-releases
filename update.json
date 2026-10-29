@@ -1,7 +1,7 @@
 {
-  "version": "0.2.28",
-  "notes": "• A maintenance build: the app is now built with newer Android build tools, and the database and Android support libraries it uses are updated to their latest fix releases.\n\n• No new features since 0.2.27. If you already have 0.2.27, this update changes nothing you will notice.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.\n\niPhone (test build): FinUtopia-0.2.28-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays. The folder backup is Android only.",
-  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.28/FinUtopia-0.2.28.apk",
-  "size": 84978530,
-  "sha256": "4ae4e7376f78947b942f65af8d8e0c9d01c45d0155fab8c58141d0df66320528"
+  "version": "0.2.29",
+  "notes": "• Scrolling up and down on Wealth no longer jumps to the next tab when your finger drifts a little to the side. To change tab, swipe across, or tap the tab name. The same goes for the tabs in Reports and in Categories.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.\n\niPhone (test build): FinUtopia-0.2.29-ios-unsigned.ipa installs with Sideloadly (sideloadly.io) or AltStore and your Apple ID, on iOS 15 or newer. With a free Apple ID, install it again every 7 days. Your data stays. The folder backup is Android only.",
+  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.29/FinUtopia-0.2.29.apk",
+  "size": 84978534,
+  "sha256": "0d03b9e77a89abcda176d490e846d632e0039f392941c5511d7c16b7fea12819"
 }
