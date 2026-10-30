@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white" alt="Android 8.0 or newer">
-  <img src="https://img.shields.io/badge/iOS-15%2B%20(test%20build)-000000?logo=apple&logoColor=white" alt="iOS 15 or newer, test build">
   <img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?logo=flutter&logoColor=white" alt="Built with Flutter">
   <img src="https://img.shields.io/badge/language-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%20%7C%20English-006A4E" alt="Bangla and English">
   <br>
@@ -37,14 +36,12 @@
       <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.29/FinUtopia-0.2.29.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
       <sub>v0.2.29 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.29/FinUtopia-0.2.29-ios-unsigned.ipa"><img src="screenshots/download-iphone.svg" width="280" alt="Download for iPhone"></a><br>
-      <sub>v0.2.29 · test build, 19 MB · iOS 15 or newer, <a href="#install">install with Sideloadly</a></sub>
-    </td>
   </tr>
 </table>
 
 <p align="center"><sub>Free · <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases">All versions</a></sub></p>
+
+<p align="center"><b>iPhone:</b> the iOS version is in production and will be available very soon.</p>
 
 <p align="center">
   <img src="screenshots/01_home.png" width="230" alt="Home">
@@ -186,11 +183,8 @@ insurance premium coming up. It shows where you stand today and what is coming n
 3. Pick Bangla or English and follow the short setup, or tap **Restore a backup** to bring your
    data from another phone.
 
-**iPhone (test build):** download the `.ipa` from the same release and install it with
-[Sideloadly](https://sideloadly.io) or AltStore and your Apple ID, then trust your Apple ID under
-Settings → General → VPN & Device Management (and turn on Developer Mode on iOS 16+). With a free
-Apple ID, reinstall every 7 days; your data stays. Google Drive and folder backups and in-app
-updates are Android-only for now.
+**iPhone:** the iOS version is in production and will be available very soon. For now FinUtopia
+is for Android only.
 
 **Updating:** FinUtopia checks for new versions by itself. When one is out you'll see it on the Home
 screen, or go to **Settings → App updates**. It installs over the current version and your data stays.
