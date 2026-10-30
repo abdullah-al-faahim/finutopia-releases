@@ -33,8 +33,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.29/FinUtopia-0.2.29.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.2.29 · APK, 81 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.30/FinUtopia-0.2.30.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.2.30 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
   </tr>
 </table>
@@ -126,7 +126,7 @@ insurance premium coming up. It shows where you stand today and what is coming n
 - Premium schedule, reminders, yearly renewals, maturity or claim payouts, total cover
 
 **Reports for you and your tax return**
-- Export any of the last 12 months as a designed PDF and an Excel workbook, or share both at once
+- Export any of the last 12 months as a designed PDF and an Excel workbook, or share both at once, straight from the Home screen
 - Budget, spending, income, account balances, savings, loans, insurance, goals, next month's dues and every entry
 - The Excel file keeps Bangla and puts each area on its own sheet, ready to sum and sort
 - **Tax year summary** (July to June): income, interest with tax cut at source, investments, premiums, assets and debts on 30 June, and living expenses, ready for your return
