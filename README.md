@@ -33,8 +33,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.0/Taka-0.3.0.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
-      <sub>v0.3.0 · APK, 81 MB · Android 8.0 or newer</sub>
+      <a href="https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.1/Taka-0.3.1.apk"><img src="screenshots/download-android.svg" width="280" alt="Download for Android"></a><br>
+      <sub>v0.3.1 · APK, 81 MB · Android 8.0 or newer</sub>
     </td>
   </tr>
 </table>
@@ -107,7 +107,6 @@ insurance premium coming up. It shows where you stand today and what is coming n
 
 **Deposit safety**
 - A warning when an FDR or DPS would take you above the Tk 2 lakh protected per person per bank, or the bank was merged
-- "Your money's safety" on the Wealth tab: at each bank and finance company, how much you hold, how much is protected and what is above the limit
 - Banks and rates update online within a day, without an app update
 
 **Loans and EMIs**
@@ -139,7 +138,8 @@ insurance premium coming up. It shows where you stand today and what is coming n
 **Your data, safely**
 - Encrypted on the phone; app lock with PIN or fingerprint; hides amounts in recent apps
 - Automatic encrypted backup to Google Drive or a folder, every day, week or month; restore everything on a new phone in a minute
-- A modern, animated design in light and dark; in-app updates with a red dot when one is ready
+- Your photo and name on Home; a clean, compact design in light and dark
+- In-app updates for the app, banks and rates together, with a red dot when one is ready
 
 ## Screenshots
 
@@ -171,7 +171,6 @@ insurance premium coming up. It shows where you stand today and what is coming n
   </tr>
   <tr>
     <td align="center"><img src="screenshots/17_insurers.png" width="250"><br><sub>All licensed insurers to pick from</sub></td>
-    <td align="center"><img src="screenshots/18_wealth_safety.png" width="250"><br><sub>How much of your money is protected</sub></td>
   </tr>
 </table>
 
