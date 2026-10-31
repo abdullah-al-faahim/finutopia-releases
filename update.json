@@ -1,7 +1,7 @@
 {
-  "version": "0.2.30",
-  "notes": "• Download your monthly report straight from Home. Tap the new download button next to the eye at the top, pick a month, then save it as a PDF or Excel file, or share both.\n\n• FinUtopia is for Android for now. The iPhone version is in production and will be available very soon.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.",
-  "apk_url": "https://github.com/abdullah-al-faahim/finutopia-releases/releases/download/v0.2.30/FinUtopia-0.2.30.apk",
-  "size": 84978534,
-  "sha256": "6827d4bebe53aa7b31e2865964a1e73cd75ded77187c013363bc80e4ef27bc0f"
+  "version": "0.3.0",
+  "notes": "• FinUtopia is now Taka (টাকা in Bangla). The app name follows your phone's language. It updates over the old app and keeps all your data.\n\n• Home and Wealth now highlight your available balance: the money in cash, wallets, bank and prepaid accounts that you can spend. Net worth is shown just below it.\n\n• The app icon now sits at the top of Home. The back up now button is gone; backups run by themselves.\n\n• Choose how often backups run: every day, every week or every month, for Google Drive and for the backup folder.\n\n• Savings goals on Home have a + button, so you can add money to a goal right there.\n\n• A DPS on the Savings tab now shows how much you have saved and how many instalments are paid.\n\n• When you pay an EMI, type the principal and interest your lender actually charged. A prepayment can include interest too.\n\n• Reports: tap Preview PDF to see the report before you save or share it.\n\n• Settings is grouped into cards, and About tells you more about the app.\n\n• New categories: Food, Snacks and tea, and Subscriptions. New income sources: Bank cashback and MFS cashback.\n\n• Bank credit ratings are removed, because there is no live source for them. The warning above the Tk 2 lakh protected per bank stays.\n\n• The app now starts in the light theme.\n\nAlready on an older version? Open Settings, then App updates, to install this one. Your data stays. A backup made on 0.2.25 or newer cannot be restored on an older version.",
+  "apk_url": "https://github.com/abdullah-al-faahim/taka-releases/releases/download/v0.3.0/Taka-0.3.0.apk",
+  "size": 85420994,
+  "sha256": "5efca6c606042ec0d1dce153b956782d1fd80e52ed8a11221750aa920ea560f1"
 }
